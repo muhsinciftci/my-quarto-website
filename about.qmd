@@ -1,0 +1,49 @@
+---
+title: "Muhsin Ciftci"
+image: media/profile.png
+about:
+  template: trestles
+  #image-width: 20em
+  image-shape: round
+  links:
+    - icon: twitter
+      href: https://twitter.com/ciftciphd
+    - icon: github
+      href: https://github.com/muhsinciftci
+    - icon: linkedin
+      href: https://www.linkedin.com/in/muhsinciftci/
+    - icon: envelope
+      href: mailto:farmer.muhsin@gmail.com
+---
+
+:::{.column-page-left}
+Hello!
+
+I am a Ph.D. Candidate in Economics at Goethe University Frankfurt School of Economics. My research interests are macroeconomics and applied econometrics. I am also interested in the application of machine learning to economics and how alternative ways can change the ways we understand the data.
+
+Before joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University and at the same time, I worked as a researcher at the Central Bank of Turkey. I received a Bachelor of Arts in Economics from Bogazici University.
+
+
+:::: {.columns}
+
+::: {.column width="40%"}
+### Interests
+* Macroeconomics
+* Applied Econometrics
+* Data Science
+:::
+
+::: {.column width="60%"}
+### Education
+![](media/cap.png){width=5%}
+Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present
+    
+![](media/cap.png){width=5%} M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019
+
+![](media/cap.png){width=5%} B.A. in Economics, Bogazici University, Turkey | 2010 - 2015
+:::
+
+::::
+
+:::
+

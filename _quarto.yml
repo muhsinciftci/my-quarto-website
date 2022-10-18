@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: _site
+
+freeze: true
+
+from: markdown+emoji
+website:
+  site-url: https://muhsinciftci.netlify.app
+  open-graph: true
+  favicon: /media/profile.png
+  image: /media/profile.png
+  twitter-card:
+    creator: "@ciftciphd"
+    card-style: summary_large_image
+  page-navigation: true
+  page-footer:
+    left: ""
+    border: false
+  navbar:
+    #background: "#FFF9F5"
+    foreground: "#0D7680"
+    search: false
+    right:
+      - text: Home
+        href: about.qmd
+      - text: Blog
+        href: blog.qmd
+      - text: Research
+        href: research.qmd
+format:
+  html:
+    theme: [solar, css/colors.scss, css/metropolis.scss]
+    css: css/style.css
+    lang: en
+    date-format: long
+    highlight-style: tango

@@ -1,0 +1,16 @@
+# Freeze computed outputs
+freeze: true
+
+# Default for table of contents
+toc: true
+toc-title: Table of contents
+toc-location: right
+
+# Default author
+author:
+  - name: Muhsin Ciftci
+    url: https://muhsinciftci.netlify.app
+    affiliation: Goethe University Frankfurt
+
+# Default fields for citation
+citation: true
