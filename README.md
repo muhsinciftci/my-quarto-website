@@ -1,1 +1,1 @@
-# This website complements the material at GSEFM, statistics course.
+# Material for my quarto academic website
