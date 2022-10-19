@@ -6,7 +6,6 @@ page-size: 100
 fields: [title, subtitle, author, image, date, categories]
 page-layout: full
 title-block-banner: false
-bibliography: [Refs/my_articles.bib, Refs/my_working_papers.bib]
 ---
 
 ## Articles

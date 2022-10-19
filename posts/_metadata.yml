@@ -1,6 +1,8 @@
 # Freeze computed outputs
 freeze: true
 
+smooth-scroll: true
+
 # Default for table of contents
 toc: true
 toc-title: Table of contents
