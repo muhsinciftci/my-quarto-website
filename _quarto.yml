@@ -6,7 +6,7 @@ freeze: true
 
 from: markdown+emoji
 website:
-  site-url: https://muhsinciftci.netlify.app
+  #site-url: https://muhsinciftci.netlify.app
   open-graph: true
   favicon: /media/profile.png
   image: /media/profile.png
@@ -30,7 +30,7 @@ website:
         href: research.qmd
 format:
   html:
-    theme: [solar, css/colors.scss, css/metropolis.scss]
+    theme: [simplex, css/colors.scss, css/metropolis.scss]
     css: css/style.css
     lang: en
     date-format: long

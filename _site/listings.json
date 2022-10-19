@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/blog.html",
     "items": [
       "/posts/2021-10-01-programming-languages/index.html"
