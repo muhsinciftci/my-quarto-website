@@ -1,9 +1,5 @@
 [
   {
-    "listing": "/index.html",
-    "items": []
-  },
-  {
     "listing": "/blog.html",
     "items": [
       "/posts/programming-languages/index.html"

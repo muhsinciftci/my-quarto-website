@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: _site
 
 freeze: true
 
@@ -30,7 +29,7 @@ website:
         href: research.qmd
 format:
   html:
-    theme: [simplex, css/colors.scss, css/metropolis.scss]
+    theme: [united, css/colors.scss, css/metropolis.scss]
     css: css/style.css
     lang: en
     date-format: long
