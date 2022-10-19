@@ -1,5 +1,5 @@
 ---
-title: "Muhsin Ciftci"
+title: "Home"
 image: media/profile.png
 about:
   template: trestles

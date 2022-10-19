@@ -5,7 +5,7 @@ freeze: true
 
 from: markdown+emoji
 website:
-  #site-url: https://muhsinciftci.netlify.app
+  title: 'MC'
   open-graph: true
   favicon: /media/profile.png
   image: /media/profile.png
@@ -21,15 +21,14 @@ website:
     foreground: "#0D7680"
     search: false
     right:
-      - text: Home
-        href: about.qmd
+      - href: index.qmd
       - text: Blog
         href: blog.qmd
       - text: Research
         href: research.qmd
 format:
   html:
-    theme: [united, css/colors.scss, css/metropolis.scss]
+    theme: [spacelab, css/colors.scss, css/metropolis.scss]
     css: css/style.css
     lang: en
     date-format: long
