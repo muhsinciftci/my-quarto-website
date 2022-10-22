@@ -1,6 +1,6 @@
 ---
 title: "Publications"
-toc: true
+toc: false
 toc-title: Sections
 page-size: 100
 fields: [title, subtitle, author, image, date, categories]
@@ -20,4 +20,5 @@ title-block-banner: false
 
 -   Ciftci, M. (2021). Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey.
     - [Link to Paper](https://mpra.ub.uni-muenchen.de/107842/)
+
 
