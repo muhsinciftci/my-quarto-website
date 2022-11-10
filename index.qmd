@@ -14,6 +14,8 @@ about:
       href: https://www.linkedin.com/in/muhsinciftci/
     - icon: envelope
       href: mailto:farmer.muhsin@gmail.com
+    #- text: GS
+    #  href: https://scholar.google.com/citations?user=tKNlSdIAAAAJ&hl=en
 ---
 
 :::{.column-page-left}

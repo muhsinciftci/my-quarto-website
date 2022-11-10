@@ -2,7 +2,6 @@ project:
   type: website
 
 freeze: true
-
 from: markdown+emoji
 website:
   #title: 'MC'
@@ -14,10 +13,9 @@ website:
     card-style: summary_large_image
   page-navigation: true
   page-footer:
-    left: ""
+    right: "Made with :heart: and Quarto"
     border: false
   navbar:
-    #background: "#FFF9F5"
     foreground: "#0D7680"
     search: false
     right:
