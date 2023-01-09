@@ -18,34 +18,30 @@ about:
     #  href: https://scholar.google.com/citations?user=tKNlSdIAAAAJ&hl=en
 ---
 
-:::{.column-page-left}
+::: column-page-left
 Hello!
 
-I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of international macroeconomics, climate change, and applied econometrics. I further analyze the textual data using  machine learning techniques and combine it with conventional macroeconometric models in my research.
+I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of international macroeconomics, climate change, and applied econometrics. I further analyze the textual data using machine learning techniques and combine it with conventional macroeconometric models in my research.
 
 Before joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University, and at the same time, I worked as a researcher at the Central Bank of Turkey. I received a Bachelor of Arts in Economics from Bogazici University.
 
-
-:::: {.columns}
-
+::: columns
 ::: {.column width="40%"}
 ### Interests
-* International Macroeconomics
-* Applied Econometrics
-* Analysis of Textual Data
+
+-   International Macroeconomics
+-   Applied Econometrics
+-   Analysis of Textual Data
 :::
 
 ::: {.column width="60%"}
 ### Education
-![](media/cap.png){width=5%}
-Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present
-    
-![](media/cap.png){width=5%} M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019
 
-![](media/cap.png){width=5%} B.A. in Economics, Bogazici University, Turkey | 2010 - 2015
+![](media/cap.png){width="5%"} Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present
+
+![](media/cap.png){width="5%"} M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019
+
+![](media/cap.png){width="5%"} B.A. in Economics, Bogazici University, Turkey | 2010 - 2015
 :::
-
-::::
-
 :::
-
+:::

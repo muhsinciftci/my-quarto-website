@@ -6,20 +6,24 @@ page-size: 100
 fields: [title, subtitle, author, image, date, categories]
 page-layout: full
 title-block-banner: false
+linestretch: 1.75
+
+bibliography: [files/my_articles.bib, files/my_wp.bib]
+csl: files/chicago.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 ---
 
-::: {.callout-note style="font-size: 20px;" icon="false"}
-## Articles
+::: {.callout-note style="font-size: 19px;" icon="false"}
+## **Journal Articles**
 
--   Kal, Süleyman Hilmi, and Muhsin Çiftçi. 2022. "Market Structure and Exchange Rate Pass-Through in the Turkish Manufacturing Industry: Evidence from Sectoral Data." Bulletin of Economic Research 74 (4): 995--1016.
-    -   [Link to Paper](https://onlinelibrary.wiley.com/doi/abs/10.1111/boer.12329)
--   Çiftçi, M., & Yılmaz, M. H. (2018). Nonlinear dynamics in exchange rate pass-through and inflation persistence: The case of Turkish economy. Asian Journal of Economic Modelling, 6(1), 8-20.
-    -   [Link to Paper](http://archive.aessweb.com/index.php/5009/article/view/297)
+I.  [@ciftci_kal_2022]
+II. [@ciftci_yilmaz_2017]
 :::
 
-::: {.callout-warning style="font-size: 20px;" icon="false"}
+::: {.callout-warning style="font-size: 19px;" icon="false"}
 ## Working Papers
 
--   Ciftci, M. (2021). Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey.
-    -   [Link to Paper](https://mpra.ub.uni-muenchen.de/107842/)
+I.  [@ciftci2021uneven]
 :::
