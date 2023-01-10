@@ -9,21 +9,19 @@ title-block-banner: false
 linestretch: 1.75
 
 bibliography: [files/my_articles.bib, files/my_wp.bib]
-csl: files/chicago.csl
+csl: styles/chicago.csl
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
 ---
 
 ::: {.callout-note style="font-size: 19px;" icon="false"}
-## **Journal Articles**
-
+## Journal Articles
 I.  [@ciftci_kal_2022]
 II. [@ciftci_yilmaz_2017]
 :::
 
 ::: {.callout-warning style="font-size: 19px;" icon="false"}
 ## Working Papers
-
 I.  [@ciftci2021uneven]
 :::

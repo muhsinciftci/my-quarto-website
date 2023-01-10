@@ -27,8 +27,8 @@ website:
         href: research.qmd
 format:
   html:
-    theme: [simplex, css/colors.scss, css/metropolis.scss]
-    css: css/style.css
+    theme: [simplex, styles/colors.scss, styles/metropolis.scss]
+    css: styles/style.css
     lang: en
     date-format: long
     highlight-style: tango
