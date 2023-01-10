@@ -1,12 +1,12 @@
 ---
-title: "Publications"
+title: "All Publications"
 toc: false
 toc-title: Sections
 page-size: 100
 fields: [title, subtitle, author, image, date, categories]
 page-layout: full
 title-block-banner: false
-linestretch: 1.75
+linestretch: 1.85
 
 bibliography: [files/my_articles.bib, files/my_wp.bib]
 csl: styles/chicago.csl
@@ -15,13 +15,15 @@ link-citations: false
 citations-hover: false
 ---
 
+## Forthcoming Papers
+TBA
+
+## Pre-PhD Publications
+
 ::: {.callout-note style="font-size: 19px;" icon="false"}
-## Journal Articles
+## Journal Articles and Working Papers
+
 I.  [@ciftci_kal_2022]
 II. [@ciftci_yilmaz_2017]
-:::
-
-::: {.callout-warning style="font-size: 19px;" icon="false"}
-## Working Papers
-I.  [@ciftci2021uneven]
+III. [@ciftci2021uneven]
 :::
