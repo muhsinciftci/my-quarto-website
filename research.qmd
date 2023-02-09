@@ -15,8 +15,8 @@ link-citations: false
 citations-hover: false
 ---
 
-## Forthcoming Papers
-TBA
+## Ongoing Research
+- Climate change mitigation policies and macroeconomic impacts. Slides: [HERE](https://github.com/muhsinciftci/Presentations/blob/main/BundesBank.pdf)
 
 ## Pre-PhD Publications
 

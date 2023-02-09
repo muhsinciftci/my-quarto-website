@@ -13,7 +13,7 @@ website:
     card-style: summary_large_image
   page-navigation: true
   page-footer:
-    right: "Made with :heart: and Quarto"
+    #right: "Made with :heart: and Quarto"
     border: false
   navbar:
     foreground: "#0D7680"
