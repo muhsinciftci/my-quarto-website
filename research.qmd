@@ -16,7 +16,7 @@ citations-hover: false
 ---
 
 ## Ongoing Research
-- Climate change mitigation policies and macroeconomic impacts. Slides: [HERE](https://github.com/muhsinciftci/Presentations/blob/main/BundesBank.pdf)
+- Climate change mitigation policies and their macroeconomic impacts
 
 ## Pre-PhD Publications
 
