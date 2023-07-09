@@ -1,5 +1,5 @@
 ---
-title: "All Publications"
+#title: "Research"
 toc: false
 toc-title: Sections
 page-size: 100
@@ -16,7 +16,8 @@ citations-hover: false
 ---
 
 ## Ongoing Research
-- Climate change mitigation policies and their macroeconomic impacts
+- Climate-related regulatory policy announcements and financial asset pricing in Latin American countries (IMF)
+- Climate change mitigation policies: Europe and beyond
 
 ## Pre-PhD Publications
 

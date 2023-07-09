@@ -28,8 +28,8 @@ Before joining Goethe University Frankfurt, I received a Master of Science in Ec
 ::: columns
 ::: {.column width="40%"}
 ### Interests
-
 -   International Macroeconomics
+-   Climate Change
 -   Applied Econometrics
 -   Analysis of Textual Data
 :::
