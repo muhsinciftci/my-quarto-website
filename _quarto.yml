@@ -27,6 +27,7 @@ website:
         href: research.qmd
 format:
   html:
+    linestretch: 2pt
     theme: [simplex, styles/main.scss]
     lang: en
     date-format: long

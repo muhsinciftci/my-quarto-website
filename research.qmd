@@ -6,7 +6,6 @@ page-size: 100
 fields: [title, subtitle, author, image, date, categories]
 page-layout: full
 title-block-banner: false
-linestretch: 1.85
 bibliography: [bib/my_articles.bib, bib/my_wp.bib]
 csl: styles/chicago.csl
 suppress-bibliography: true
