@@ -14,3 +14,34 @@ $body-bg: white !default;
 $body-color: #000 !default;
 $link-color: #4682B4 !default;
 $selection-bg: rgb(212, 212, 34);
+
+// body font color
+body {
+  color: black;
+  font-size: 19px;
+}
+
+// Link CV dates to the right
+.cvdate{
+  float: right;
+  font-style: italic;
+  color: $link-color;
+}
+
+.subitems{
+  color: grey;
+  font-style: italic;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+

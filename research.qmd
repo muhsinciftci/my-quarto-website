@@ -1,5 +1,5 @@
 ---
-#title: "Research"
+title: "Research"
 toc: false
 toc-title: Sections
 page-size: 100
@@ -7,24 +7,23 @@ fields: [title, subtitle, author, image, date, categories]
 page-layout: full
 title-block-banner: false
 linestretch: 1.85
-
-bibliography: [files/my_articles.bib, files/my_wp.bib]
+bibliography: [bib/my_articles.bib, bib/my_wp.bib]
 csl: styles/chicago.csl
 suppress-bibliography: true
 link-citations: false
 citations-hover: false
 ---
 
-## Ongoing Research
-- Climate-related regulatory policy announcements and financial asset pricing in Latin American countries (IMF)
+::: {.callout-tip style="font-size: 19px;" icon="false"}
+## Ongoing Work
 - Climate change mitigation policies: Europe and beyond
-
-## Pre-PhD Publications
+- Climate-related regulatory policy announcements and financial asset pricing in Latin American countries (IMF)
+- A comment on Bernard et al. (2017) Export Dynamics and Partial-Year Effects, American Economic Review, 107 (10): 3211-3228 (IMF)
+:::
 
 ::: {.callout-note style="font-size: 19px;" icon="false"}
-## Journal Articles and Working Papers
-
-I.  [@ciftci_kal_2022]
-II. [@ciftci_yilmaz_2017]
-III. [@ciftci2021uneven]
+## Pre-PhD Publications
+- [@ciftci_kal_2022]
+- [@ciftci_yilmaz_2017]
+- [@ciftci2021uneven]
 :::
