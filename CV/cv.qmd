@@ -8,7 +8,7 @@ format:
     page-layout: article
 ---
 
-> Click on each item to see the details
+__[Click on each item to see the details]{.ftcol1}__
 
 ::: {.callout-note collapse="true" style="font-size: 19px;" icon="false"}
 ## Education
