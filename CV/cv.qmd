@@ -1,85 +1,54 @@
 ---
 #title: "Resume"
-linestretch: 1.5pt
+linestretch: 2pt
 format:
   html:
-    theme: [simplex, ./styles/main.scss]
+    theme: [./styles/main.scss]
     toc: false
     page-layout: article
 ---
 
-__[Click on each item to see the details]{.ftcol1}__
-
-::: {.callout-note collapse="true" style="font-size: 19px;" icon="false"}
 ## Education
-
 -   Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt/Germany, [2019 --]{.cvdate}
-
 -   M.Sc. in Economics (with Honors), Middle East Technical University, Ankara/Turkey, [2019]{.cvdate}
-
 -   B.A. in Economics (with Honors), Bogazici University, Istanbul/Turkey, [2015]{.cvdate}
-:::
 
-::: {.callout-warning style="font-size: 19px;" icon="false" collapse="true"}
 ## Employment
+- PhD Intern, Deutsche Bundesbank, Frankfurt am Main / Germany, [2023-2024]{.cvdate}
+    - [Macroeconomic forecasting, Price Analysis, Inflation]{.subitems}
+    
+- PhD Intern, International Monetary Fund (IMF), Washington D.C. / USA, [Summer 2023]{.cvdate}
+    - [Assessing the impact of climate-related regulatory policy announcements by local administrations as well as local newspapers on valuations of Latin American country assets via AI/textual analysis]{.subitems}
 
--   PhD Intern, International Monetary Fund (IMF), Washington D.C. / USA, [Summer 2023]{.cvdate}
+- Researcher, Central Bank of the Republic of Turkey, Research and Monetary Policy Department, Ankara/Turkey, [2016 - 2019]{.cvdate}
+    - [(Short Term) Inflation Forecasting : Conducted short term macro-econometric time series modeling and forecasting in the price analysis team using various types of modeling techniques. Mainly used time-varying parameter models, Bayesian VAR Models, disaggregate models, satellite models, and carried out model performance. Furthermore regularly contributed to the quarterly inflation reports, monthly price development releases, and ad hoc policy reports.]{.subitems}
+    - [International Macroeconomics : Wrote policy reports and briefs on international economic developments, portfolio flows, growth, and their prospective impacts on the local economy. Closely following the key economic indicators and macroeconomic data and the impact on the export performance]{.subitems}
 
-    -   [Assessing the impact of climate-related regulatory policy announcements by local administrations as well as local newspapers on valuations of Latin American country assets via AI/textual analysis]{.subitems}
-
--   Researcher, Central Bank of the Republic of Turkey, Research and Monetary Policy Department, Ankara/Turkey, [2016 - 2019]{.cvdate}
-
-    -   [(Short Term) Inflation Forecasting : Conducted short term macro-econometric time series modeling and forecasting in the price analysis team using various types of modeling techniques. Mainly used time-varying parameter models, Bayesian VAR Models, disaggregate models, satellite models, and carried out model performance. Furthermore regularly contributed to the quarterly inflation reports, monthly price development releases, and ad hoc policy reports.]{.subitems}
-
-    -   [International Macroeconomics : Wrote policy reports and briefs on international economic developments, portfolio flows, growth, and their prospective impacts on the local economy. Closely following the key economic indicators and macroeconomic data and the impact on the export performance.]{.subitems}
-:::
-
-::: {.callout-important style="font-size: 19px;" icon="false" collapse="true"}
 ## Research Interests
+- International Macroeconomics, Climate Change, Applied Bayesian Econometrics
+- Machine Learning, Data Science
 
--   International Macroeconomics, Climate Change, Applied Bayesian Econometrics
-
--   Machine Learning, Data Science
-:::
-
-::: {.callout-tip style="font-size: 19px;" icon="false" collapse="true"}
 ## Presentations
+- The impact of climate change mitigation policies : Europe and beyond, University of Mainz, Mainz/Germany
+- Climate-related news and financial asset pricing in Latin American countries, International Monetary Fund (IMF), Washington DC/United States
+- The macroeconomic impact of climate change mitigation policies, Joint Conference of Goethe University Frankfurt, University of Bonn, University of Mannheim and Frankfurt School of Finance, Frankfurt am Main/Germany
+- The impact of climate change mitigation policies : Europe and beyond, Deutsche Bundesbank, Frankfurt am Main/Germany
 
--   The impact of climate change mitigation policies : Europe and beyond, University of Mainz, Mainz/Germany
-
--   Climate-related news and financial asset pricing in Latin American countries, International Monetary Fund (IMF), Washington DC/United States
-
--   The macroeconomic impact of climate change mitigation policies, Joint Conference of Goethe University Frankfurt, University of Bonn, University of Mannheim and Frankfurt School of Finance, Frankfurt am Main/Germany
-
--   The impact of climate change mitigation policies : Europe and beyond, DEUTSCHE BUN- DESBANK, Frankfurt am Main/Germany
-:::
-
-::: {.callout-caution style="font-size: 19px;" icon="false" collapse="true"}
 ## Teaching
+- Statistics and Introduction to Stata (Ph.D. Level), Goethe University Frankfurt
 
--   Statistics and Introduction to Stata (Ph.D. Level), Goethe University Frankfurt
-:::
-
-::: {.callout-note style="font-size: 19px;" icon="false" collapse="true"}
 ## Software Skills
+- Python, SQL, R, Julia, C++, MATLAB(/Dynare), Stata, EViews, LATEX, Ms. Office
 
--   Python, SQL, R, Julia, C++, MATLAB(/Dynare), Stata, EViews, LATEX, Ms. Office
-:::
-
-::: {.callout-warning style="font-size: 19px;" icon="false" collapse="true"}
 ## Language Skills
+- English (Fluent)
+- German (Intermediate)
+- Turkish (Native)
 
--   English (Fluent)
--   German (Intermediate)
--   Turkish (Native)
-:::
-
-::: {.callout-important style="font-size: 19px;" icon="false" collapse="true"}
 ## Grants/Awards
+- 2019 - 23 PhD Scholarship/Fellowship by DAAD, German Academic Exchange Service (Deutscher Akademischer Austauschdienst)
 
--   2019 - 23 PhD Scholarship/Fellowship by DAAD, German Academic Exchange Service (Deutscher Akademischer Austauschdienst)
-:::
 
 <!--# https://jpswalsh.github.io/academicons/  -->
 
-<!--# {{< ai google-scholar >}} -->
+<!--# {{< ai figshare >}} -->
