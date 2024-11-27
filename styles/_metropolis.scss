@@ -1,36 +1,55 @@
+
 /*-- scss:defaults --*/
-
-// fonts
-@import url(https://fonts.googleapis.com/css?family=Fira+Sans:300,300i,400,400i,500,500i,700,700i);
-@import url(https://cdn.rawgit.com/tonsky/FiraCode/1.204/distr/fira_code.css);
-@import url("https://fonts.googleapis.com/css?family=Roboto+Mono|JetBrains+Mono&display=swap");
-@import url("https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap");
-
-$font-family-sans-serif: "Roboto", "Fira Sans", "Droid Serif", serif default;
-$font-family-monospace: "JetBrains Mono", "Fira Code", monospace;
+@import url(https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900);
 
 // colors
-$body-bg: white !default;
-$body-color: #000 !default;
+$body-bg: $ftcol4 !default;
 $link-color: #4682B4 !default;
-$selection-bg: rgb(212, 212, 34);
+$selection-bg: rgb(212, 212, 34) !default;
+$navbar-bg: $ftcol4 !default;
 
 // body font color
-body {
+body * {
   color: black;
+  background-color: $ftcol4;
   font-size: 19px;
+}
+
+// Colors of header
+h1, h2, h3, h4, h5, h6, .title, .anchored {
+  color: $ftcol1;
+}
+
+// Navigation bars
+.navbar * {
+  color: $ftcol1;
+  background-color: $ftcol4;
+  text-transform: uppercase;
+  margin: -1.5px;
+  padding: -1.5px;
+  border: -1.5px;
+
+  &:hover{
+    color: $brown;
+  }
 }
 
 // Link CV dates to the right
 .cvdate{
   float: right;
   font-style: italic;
+  font-weight: bold;
   color: $link-color;
 }
 
 .subitems{
   color: grey;
 }
+
+
+
+
+
 
 
 

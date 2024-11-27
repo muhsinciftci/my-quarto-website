@@ -1,52 +1,66 @@
 [
   {
-    "objectID": "research.html",
-    "href": "research.html",
-    "title": "Research",
+    "objectID": "blog.html",
+    "href": "blog.html",
+    "title": "",
     "section": "",
-    "text": "Pre-PhD Publications\n\n\n\n\nSüleyman Hilmi Kal and Muhsin Çiftçi, “Market Structure and Exchange Rate Pass-Through in the Turkish Manufacturing Industry: Evidence from Sectoral Data,” Bulletin of Economic Research 74, no. 4 (2022): 995–1016, https://doi.org/10.1111/boer.12329.\nMuhsin Çiftçi and Muhammed Hasan Yılmaz, “Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy,” Asian Journal of Economic Modelling 6, no. 1 (2017): 8–20, https://doi.org/10.18488/journal.8.2018.61.8.20.\nMuhsin Ciftci, “Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey,” Munich Personal RePEc Archive, 2021, https://mpra.ub.uni-muenchen.de/107842/."
-  },
-  {
-    "objectID": "posts/programming-languages/index.html",
-    "href": "posts/programming-languages/index.html",
-    "title": "Programming Languages for Economics",
-    "section": "",
-    "text": "CitationBibTeX citation:@online{ciftci2021,\n  author = {Muhsin Ciftci},\n  editor = {},\n  title = {Programming {Languages} for {Economics}},\n  date = {2021-10-01},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nMuhsin Ciftci. 2021. “Programming Languages for Economics.”\nOctober 1, 2021."
+    "text": "Programming Languages for Economics\n\n\n\nProgramming\n\n\nEconomics\n\n\n\n\nMuhsin Ciftci\n\n\nOctober 1, 2021\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Muhsin Ciftci",
     "section": "",
-    "text": "Hello!\nI am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of international macroeconomics, climate change, and applied econometrics. I further analyze the textual data using machine learning techniques and combine it with macro-econometric models in my research.\nBefore joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University, and at the same time, I worked as a researcher at the research and monetary policy department of the Central Bank of Turkey.\n\n\n\n\n\nEconomics of Climate Change\nApplied Econometrics\nAnalysis of Textual Data\n\n\n\n\n\n Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present\n M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019\n B.A. in Economics, Bogazici University, Turkey | 2010 - 2015"
+    "text": "Hello!\nI am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of economics of climate change and macro-econometrics. I further analyze the textual data using machine learning techniques and combine it with macro-econometric models in my research.\nBefore joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University, and at the same time, I worked as a researcher at the research and monetary policy department of the Central Bank of Turkey.\n\n\n\nInterests\n\nEconomics of Climate Change\nMacro Econometrics\nAnalysis of Textual Data\n\n\n\n\nEducation\n Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present\n M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019\n B.A. in Economics, Bogazici University, Turkey | 2010 - 2015"
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "",
+    "section": "",
+    "text": "Research\n\n\n\n\n\n\nOngoing Work\n\n\n\n\nThe impact of climate change mitigation policies: Europe and beyond Link\nClimate News and Asset Prices: Evidence from Latin America (IMF)\nA comment on Bernard et al. (2017) Export Dynamics and Partial-Year Effects, American Economic Review, 107 (10): 3211-3228 (IMF & World Bank)\n\n\n\n\n\n\n\n\n\nPre-PhD Publications\n\n\n\n\nSüleyman Hilmi Kal and Muhsin Çiftçi, “Market Structure and Exchange Rate Pass-Through in the Turkish Manufacturing Industry: Evidence from Sectoral Data,” Bulletin of Economic Research 74, no. 4 (2022): 995–1016, https://doi.org/10.1111/boer.12329.\nMuhsin Çiftçi and Muhammed Hasan Yılmaz, “Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy,” Asian Journal of Economic Modelling 6, no. 1 (2017): 8–20, https://doi.org/10.18488/journal.8.2018.61.8.20.\nMuhsin Ciftci, “Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey,” Munich Personal RePEc Archive, 2021, https://mpra.ub.uni-muenchen.de/107842/."
+  },
+  {
+    "objectID": "posts/programming-languages/index.html",
+    "href": "posts/programming-languages/index.html",
+    "title": "Programming Languages for Economics",
+    "section": "",
+    "text": "Those who study economics and finance or any relevant discipline begin to be exposed to different software to benefit from the real-life data at hand. From my point of view, an important question emerges out of this process: Which one should I use? Is there any single software that can meet all my needs to perform my tasks? The answer to this question very much depends on the specific subject area you work on. Put differently, there is no ideal single software that performs very well for each one. This leads us to the subject area we work again. Depending on the tasks we work on, we may prefer different ones and dismiss others. For instance, those who concentrate on macroeconomics and economic modeling use Matlab or Octave because they allow macro people to run Dynare aimed at Dynamic Stochastic General Equilibrium (DSGE) models. In that sense, those who plan to get a Master’s or Ph.D. in the macro area are well-advised to learn Matlab. However, this is only a piece of the whole picture. If you deal with econometrics and statistics you can use Stata, Eviews, or R and each of them is well suited for a specific sub-area. More clearly, if you generally use micro/panel data, Stata is the best option. The loop and conditional statements are really handy. However, if you focus on time series econometrics, it is better to use Eviews. It has drop-down menus and is handy for a quick and short analysis of time series. From this perspective, Eviews outperforms Stata but it is really bad for micro/panel data analysis. I should point out that in each of them you can do what want but it comes at a higher cost! Therefore, the actual point is to minimize the cost that we put into using that software. On the other hand, we can do all this econometric staff on R as well but it does not have drop-down menus and it might be a little onerous to get used to. However, R is great for data analysis and data visualization. As we all observe, data science begins to get importance each day mainly due to the large and complex data becoming available. Therefore, R is a big and potential software to invest in. What is more, it is free and you can find almost anything in it with myriads of different packages. On the other hand, the preferences for using the software are also subject to change! As technology improves, the capabilities of new software also begin to outperform that of old ones. Also, this new software is free and its codes are available on different platforms. You can develop a package or contribute to it. This feature of new software makes them expand very quickly and have very active communities. One of the most popular and attractive ones in Python. It is really useful for data analysis and it has different scientific libraries. Because of the rise of Python, Matlab begins to lose its popularity even among macro guys. However, in all of this software, we have an important problem: Speed. Depending on your subject, speed may become an important factor for your analysis. For example, even though Python is useful for data analysis and it has different scientific libraries, perhaps it is not as fast as we want! At this point, we meet a new candidate: Julia. Julia language is developed by MIT. Its syntax is very similar to that of Matlab and Python and it does not bring a big-time cost if you want to learn. The beauty of Julia is that it is very fast, because of its property called Multiple Dispatch. It is almost as fast as C & Fortran with very clean syntax. That makes Julia fun to work with. For example, the Federal Reserve Bank of New York has switched to Julia for their DSGE models because of Julia’s speed (it is much faster than Matlab). These properties of new software are killing Matlab. Furthermore, Julia also has different packages for data analysis and the Julia community is expanding fast. All in all, the answer to the question that which software to use depends on what you do.\n\n\n\nCitationBibTeX citation:@online{ciftci2021,\n  author = {Ciftci, Muhsin},\n  title = {Programming {Languages} for {Economics}},\n  date = {2021-10-01},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCiftci, Muhsin. 2021. “Programming Languages for\nEconomics.” October 1, 2021."
   },
   {
     "objectID": "CV/cv.html",
     "href": "CV/cv.html",
     "title": "",
     "section": "",
-    "text": "Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt/Germany, 2019 –\nM.Sc. in Economics (with Honors), Middle East Technical University, Ankara/Turkey, 2019\nB.A. in Economics (with Honors), Bogazici University, Istanbul/Turkey, 2015"
+    "text": "Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt/Germany 2019 –\nM.Sc. in Economics (with Honors), Middle East Technical University, Ankara/Turkey 2019\nB.A. in Economics (with Honors), Bogazici University, Istanbul/Turkey 2015"
+  },
+  {
+    "objectID": "CV/cv.html#education",
+    "href": "CV/cv.html#education",
+    "title": "",
+    "section": "",
+    "text": "Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt/Germany 2019 –\nM.Sc. in Economics (with Honors), Middle East Technical University, Ankara/Turkey 2019\nB.A. in Economics (with Honors), Bogazici University, Istanbul/Turkey 2015"
   },
   {
     "objectID": "CV/cv.html#employment",
     "href": "CV/cv.html#employment",
     "title": "",
     "section": "Employment",
-    "text": "Employment\n\nPhD Intern, Deutsche Bundesbank, Frankfurt am Main / Germany, 2023-2024\n\nMacroeconomic forecasting, Price Analysis, Inflation\n\nPhD Intern, International Monetary Fund (IMF), Washington D.C. / USA, Summer 2023\n\nAssessing the impact of climate-related regulatory policy announcements by local administrations as well as local newspapers on valuations of Latin American country assets via AI/textual analysis\n\nResearcher, Central Bank of the Republic of Turkey, Research and Monetary Policy Department, Ankara/Turkey, 2016 - 2019\n\n(Short Term) Inflation Forecasting : Conducted short term macro-econometric time series modeling and forecasting in the price analysis team using various types of modeling techniques. Mainly used time-varying parameter models, Bayesian VAR Models, disaggregate models, satellite models, and carried out model performance. Furthermore regularly contributed to the quarterly inflation reports, monthly price development releases, and ad hoc policy reports.\nInternational Macroeconomics : Wrote policy reports and briefs on international economic developments, portfolio flows, growth, and their prospective impacts on the local economy. Closely following the key economic indicators and macroeconomic data and the impact on the export performance"
+    "text": "Employment\n\nPhD Intern, Deutsche Bundesbank, Frankfurt am Main / Germany, 2023-2024\n\nMacroeconomic forecasting, Price Analysis, Inflation\n\nPhD Intern, International Monetary Fund (IMF), Washington D.C. / USA, 2023\n\nAssessing the impact of climate-related regulatory policy announcements by local administrations as well as local newspapers on valuations of Latin American country assets via AI/textual analysis\n\nResearcher, Central Bank of the Republic of Turkey, Research and Monetary Policy Department, Ankara/Turkey, 2016 - 2019\n\n(Short Term) Inflation Forecasting : Conducted short term macro-econometric time series modeling and forecasting in the price analysis team using various types of modeling techniques. Mainly used time-varying parameter models, Bayesian VAR Models, disaggregate models, satellite models, and carried out model performance. Furthermore regularly contributed to the quarterly inflation reports, monthly price development releases, and ad hoc policy reports.\nInternational Macroeconomics : Wrote policy reports and briefs on international economic developments, portfolio flows, growth, and their prospective impacts on the local economy. Closely following the key economic indicators and macroeconomic data and the impact on the export performance"
   },
   {
     "objectID": "CV/cv.html#research-interests",
     "href": "CV/cv.html#research-interests",
     "title": "",
     "section": "Research Interests",
-    "text": "Research Interests\n\nInternational Macroeconomics, Climate Change, Applied Bayesian Econometrics\nMachine Learning, Data Science"
+    "text": "Research Interests\n\nEconomics of Climate Change, Macro Econometrics\nAnalysis of Textual Data"
   },
   {
     "objectID": "CV/cv.html#presentations",
     "href": "CV/cv.html#presentations",
     "title": "",
     "section": "Presentations",
-    "text": "Presentations\n\nThe impact of climate change mitigation policies : Europe and beyond, University of Mainz, Mainz/Germany\nClimate-related news and financial asset pricing in Latin American countries, International Monetary Fund (IMF), Washington DC/United States\nThe macroeconomic impact of climate change mitigation policies, Joint Conference of Goethe University Frankfurt, University of Bonn, University of Mannheim and Frankfurt School of Finance, Frankfurt am Main/Germany\nThe impact of climate change mitigation policies : Europe and beyond, Deutsche Bundesbank, Frankfurt am Main/Germany"
+    "text": "Presentations\n\nClimate News and Asset Prices: Evidence from Latin America, International Monetary Fund (IMF), Washington DC/United States\nThe impact of climate change mitigation policies : Europe and beyond, University of Mainz, Mainz/Germany\nClimate-related news and financial asset pricing in Latin American countries, International Monetary Fund (IMF), Washington DC/United States\nThe macroeconomic impact of climate change mitigation policies, Joint Conference of Goethe University Frankfurt, University of Bonn, University of Mannheim and Frankfurt School of Finance, Frankfurt am Main/Germany\nThe impact of climate change mitigation policies : Europe and beyond, Deutsche Bundesbank, Frankfurt am Main/Germany"
   },
   {
     "objectID": "CV/cv.html#teaching",
@@ -75,12 +89,5 @@
     "title": "",
     "section": "Grants/Awards",
     "text": "Grants/Awards\n\n2019 - 23 PhD Scholarship/Fellowship by DAAD, German Academic Exchange Service (Deutscher Akademischer Austauschdienst)"
-  },
-  {
-    "objectID": "blog.html",
-    "href": "blog.html",
-    "title": "",
-    "section": "",
-    "text": "Programming\n\n\nEconomics\n\n\n\n\nMuhsin Ciftci\n\n\nOctober 1, 2021\n\n\n\n\n\n\n\n\nNo matching items"
   }
 ]

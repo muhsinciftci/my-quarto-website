@@ -3,21 +3,20 @@
 linestretch: 2pt
 format:
   html:
-    theme: [./styles/main.scss]
     toc: false
-    page-layout: article
+    page-layout: full
 ---
 
 ## Education
--   Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt/Germany, [2019 --]{.cvdate}
--   M.Sc. in Economics (with Honors), Middle East Technical University, Ankara/Turkey, [2019]{.cvdate}
--   B.A. in Economics (with Honors), Bogazici University, Istanbul/Turkey, [2015]{.cvdate}
+-   Ph.D. Candidate in Economics, Goethe University Frankfurt, Frankfurt/Germany [2019 --]{.cvdate}
+-   M.Sc. in Economics (with Honors), Middle East Technical University, Ankara/Turkey [2019]{.cvdate}
+-   B.A. in Economics (with Honors), Bogazici University, Istanbul/Turkey [2015]{.cvdate}
 
 ## Employment
 - PhD Intern, Deutsche Bundesbank, Frankfurt am Main / Germany, [2023-2024]{.cvdate}
     - [Macroeconomic forecasting, Price Analysis, Inflation]{.subitems}
     
-- PhD Intern, International Monetary Fund (IMF), Washington D.C. / USA, [Summer 2023]{.cvdate}
+- PhD Intern, International Monetary Fund (IMF), Washington D.C. / USA, [2023]{.cvdate}
     - [Assessing the impact of climate-related regulatory policy announcements by local administrations as well as local newspapers on valuations of Latin American country assets via AI/textual analysis]{.subitems}
 
 - Researcher, Central Bank of the Republic of Turkey, Research and Monetary Policy Department, Ankara/Turkey, [2016 - 2019]{.cvdate}
@@ -25,10 +24,11 @@ format:
     - [International Macroeconomics : Wrote policy reports and briefs on international economic developments, portfolio flows, growth, and their prospective impacts on the local economy. Closely following the key economic indicators and macroeconomic data and the impact on the export performance]{.subitems}
 
 ## Research Interests
-- International Macroeconomics, Climate Change, Applied Bayesian Econometrics
-- Machine Learning, Data Science
+- Economics of Climate Change, Macro Econometrics
+- Analysis of Textual Data
 
 ## Presentations
+- Climate News and Asset Prices: Evidence from Latin America, International Monetary Fund (IMF), Washington DC/United States
 - The impact of climate change mitigation policies : Europe and beyond, University of Mainz, Mainz/Germany
 - Climate-related news and financial asset pricing in Latin American countries, International Monetary Fund (IMF), Washington DC/United States
 - The macroeconomic impact of climate change mitigation policies, Joint Conference of Goethe University Frankfurt, University of Bonn, University of Mannheim and Frankfurt School of Finance, Frankfurt am Main/Germany

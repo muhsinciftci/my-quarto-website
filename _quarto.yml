@@ -4,32 +4,31 @@ project:
 freeze: true
 from: markdown+emoji
 website:
-  #title: 'MC'
+  #title: 'Home'
   open-graph: true
   favicon: /media/profile.png
   image: /media/profile.png
   twitter-card:
     creator: "@ciftciphd"
     card-style: summary_large_image
-  page-navigation: true
+  page-navigation: false
   page-footer:
-    #right: "Made with :heart: and Quarto"
-    border: false
+    right: ":school: Quarto"
+    border: true
   navbar:
-    foreground: "#0D7680"
-    search: false
+    #search: false
     right:
       - href: index.qmd
         text: Home
-      - text: Blog
-        href: blog.qmd
       - text: Research
         href: research.qmd
+      - text: Blog
+        href: blog.qmd
 format:
   html:
     linestretch: 2pt
-    theme: [simplex, styles/main.scss]
+    fontsize: 14pt
+    theme: ['styles/main.scss']
     lang: en
     date-format: long
-    highlight-style: tango
     

@@ -5,7 +5,8 @@ description: |
 date: "2021-10-01"
 categories: [Programming, Economics]
 image: "jupyter.png"
-page-width: 100
+page-layout: full
+page-progression-direction: ltr
 toc: false
 citation: true
 ---

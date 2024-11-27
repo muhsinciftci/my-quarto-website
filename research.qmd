@@ -1,8 +1,9 @@
 ---
-title: "Research"
+#title: "Research"
 toc: false
+fontsize: 15pt
 toc-title: Sections
-page-size: 100
+page-size: 200
 fields: [title, subtitle, author, image, date, categories]
 page-layout: full
 title-block-banner: false
@@ -12,17 +13,18 @@ suppress-bibliography: true
 link-citations: false
 citations-hover: false
 ---
+
+### Research
 ::: {.callout-tip style="font-size: 19px;" icon="false"}
 ## Ongoing Work
-- The impact of climate change mitigation policies: Europe and beyond
-[({{< ai ssrn size=2xl >}})](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615483)
-- Climate-related news and financial asset pricing (_IMF_)
-- A comment on Bernard et al. (2017) Export Dynamics and Partial-Year Effects, American Economic Review, 107 (10): 3211-3228 (_IMF & World Bank_)
+-   The impact of climate change mitigation policies: Europe and beyond [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615483)
+-   Climate News and Asset Prices: Evidence from Latin America (*IMF*)
+-   A comment on Bernard et al. (2017) Export Dynamics and Partial-Year Effects, American Economic Review, 107 (10): 3211-3228 (*IMF & World Bank*)
 :::
 
 ::: {.callout-note style="font-size: 19px;" icon="false"}
 ## Pre-PhD Publications
-- [@ciftci_kal_2022]
-- [@ciftci_yilmaz_2017]
-- [@ciftci2021uneven]
+-   [@ciftci_kal_2022]
+-   [@ciftci_yilmaz_2017]
+-   [@ciftci2021uneven]
 :::

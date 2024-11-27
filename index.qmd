@@ -1,5 +1,5 @@
 ---
-title: "Muhsin Ciftci"
+title: Muhsin Ciftci
 image: media/profile.png
 about:
   template: trestles
@@ -16,33 +16,32 @@ about:
       href: mailto:farmer.muhsin@gmail.com
     - text: CV
       href: CV/cv.html
-    #- text: GS
-    #  href: https://scholar.google.com/citations?user=tKNlSdIAAAAJ&hl=en
 ---
 
-::: column-page-left
+:::::: column-page-left
 **Hello!**
 
-I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of international macroeconomics, climate change, and applied econometrics. I further analyze the textual data using machine learning techniques and combine it with macro-econometric models in my research.
+I am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of economics of climate change and macro-econometrics. I further analyze the textual data using machine learning techniques and combine it with macro-econometric models in my research.
 
 Before joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University, and at the same time, I worked as a researcher at the research and monetary policy department of the Central Bank of Turkey.
 
-::: columns
+::::: columns
 ::: {.column width="40%"}
-### Interests
+#### Interests{.ftcol1}
+
 -   Economics of Climate Change
--   Applied Econometrics
+-   Macro Econometrics
 -   Analysis of Textual Data
 :::
 
 ::: {.column width="60%"}
-### Education
+#### Education{.ftcol1}
 
-{{< ai figshare >}} Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present
+{{< ai figshare >}} Ph.D. in Economics, Goethe University Frankfurt, Germany \| 2019 - Present
 
-{{< ai figshare >}} M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019
+{{< ai figshare >}} M.Sc. in Economics, Middle East Technical University, Turkey \| 2017 - 2019
 
-{{< ai figshare >}} B.A. in Economics, Bogazici University, Turkey | 2010 - 2015
+{{< ai figshare >}} B.A. in Economics, Bogazici University, Turkey \| 2010 - 2015
 :::
-:::
-:::
+:::::
+::::::

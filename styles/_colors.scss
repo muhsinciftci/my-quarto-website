@@ -45,9 +45,8 @@
     color: pink;
 }
 
-.brown {
-    color: brown;
-}
+$brown: brown;
+.brown {color: $brown;}
 
 .lime {
     color: lime;
@@ -62,32 +61,24 @@
 }
 
 /* Financial Times colors */
+$ftcol1: #0D7680;
 .ftcol1 {
-    color: #0D7680;
+    color: $ftcol1;
 }
 
+$ftcol2: #F2DFCE;
 .ftcol2 {
-    color: #F2DFCE;
+    color: $ftcol2;
 }
 
-.ftcol3 {
-    color: #FFF1E0;
-}
 
+$ftcol3: #FFF1E0;
+.ftcol3 { color: $ftcol3;}
+
+$ftcol4: #FFF9F5;
 .ftcol4 {
-    color: #FFF9F5;
+    color: $ftcol4;
 }
-
-h1, h2, h3, h4, h5, h6 {
-    color: #0D7680;
-}
-
-
-
-
-
-
-
 
 
 
