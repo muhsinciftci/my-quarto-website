@@ -5,6 +5,11 @@ format:
   html:
     toc: false
     page-layout: full
+bibliography: [../bib/my_articles.bib, ../bib/my_wp.bib]
+csl: ../styles/chicago.csl
+suppress-bibliography: true
+link-citations: false
+citations-hover: false
 ---
 
 ## Education
@@ -26,6 +31,15 @@ format:
 ## Research Interests
 - Economics of Climate Change, Macro Econometrics
 - Analysis of Textual Data
+
+### Research
+- Climate News and Asset Prices: Evidence from Latin America (with Christina Kolerus, IMF)
+- Underlying inflation measures for Germany (with Elisabeth Wieland, Deutsche Bundesbank)
+- The impact of climate change mitigation policies: Europe and beyond
+- [@ciftci_kal_2022]
+- [@ciftci_yilmaz_2017]
+- [@ciftci2021uneven]
+
 
 ## Presentations
 - Climate News and Asset Prices: Evidence from Latin America, International Monetary Fund (IMF), Washington DC/United States

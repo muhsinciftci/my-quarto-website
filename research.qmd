@@ -17,9 +17,9 @@ citations-hover: false
 ### Research
 ::: {.callout-tip style="font-size: 19px;" icon="false"}
 ## Ongoing Work
--   The impact of climate change mitigation policies: Europe and beyond [Link](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615483)
--   Climate News and Asset Prices: Evidence from Latin America (*IMF*)
--   A comment on Bernard et al. (2017) Export Dynamics and Partial-Year Effects, American Economic Review, 107 (10): 3211-3228 (*IMF & World Bank*)
+- Climate News and Asset Prices: Evidence from Latin America (with Christina Kolerus, IMF)
+- Underlying inflation measures for Germany (with Elisabeth Wieland, Deutsche Bundesbank)
+- The impact of climate change mitigation policies: Europe and beyond [Here: WP Version](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4615483)
 :::
 
 ::: {.callout-note style="font-size: 19px;" icon="false"}
