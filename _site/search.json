@@ -14,18 +14,158 @@
     "text": "Hello!\nI am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of economics of climate change and macro-econometrics. I further analyze the textual data using machine learning techniques and combine it with macro-econometric models in my research.\nBefore joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University, and at the same time, I worked as a researcher at the research and monetary policy department of the Central Bank of Turkey.\n\n\n\nInterests\n\nEconomics of Climate Change\nMacro Econometrics\nAnalysis of Textual Data\n\n\n\n\nEducation\n Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present\n M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019\n B.A. in Economics, Bogazici University, Turkey | 2010 - 2015"
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "research/recent/2025-imf-climate-news/index.html",
+    "href": "research/recent/2025-imf-climate-news/index.html",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
+    "section": "",
+    "text": "AI Generated Podcast:\nLink to the Paper"
+  },
+  {
+    "objectID": "research/recent/2025-imf-climate-news/index.html#important-links",
+    "href": "research/recent/2025-imf-climate-news/index.html#important-links",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
+    "section": "",
+    "text": "AI Generated Podcast:\nLink to the Paper"
+  },
+  {
+    "objectID": "research/recent/2025-imf-climate-news/index.html#abstract",
+    "href": "research/recent/2025-imf-climate-news/index.html#abstract",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "research/recent/2025-imf-climate-news/index.html#citation",
+    "href": "research/recent/2025-imf-climate-news/index.html#citation",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
+    "section": "Citation",
+    "text": "Citation"
+  },
+  {
+    "objectID": "research/other/2021-ciftci-corona/index.html",
+    "href": "research/other/2021-ciftci-corona/index.html",
+    "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
+    "section": "",
+    "text": "Link to the Paper"
+  },
+  {
+    "objectID": "research/other/2021-ciftci-corona/index.html#important-links",
+    "href": "research/other/2021-ciftci-corona/index.html#important-links",
+    "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
+    "section": "",
+    "text": "Link to the Paper"
+  },
+  {
+    "objectID": "research/other/2021-ciftci-corona/index.html#abstract",
+    "href": "research/other/2021-ciftci-corona/index.html#abstract",
+    "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
+    "section": "Abstract",
+    "text": "Abstract\nIn this study, we investigate the impact of coronavirus pandemic on increased home office working, provision of payments to dependent employees on leave, and closed workplaces (voluntary or involuntary) of self-employed people using the online GESIS Panel survey on the Coronavirus SARS-COV-2 for Germany. To this end, we use the Bayesian estimation to measure the effects of a pandemic on key outcome variables, taking into account different levels of education, gender, household size, age, and the number of children below certain age of workers. Empirical results show that higher education level, gender, a larger household size, having children below the age of 12 significantly increase home office work. Men are more likely to work from home than women. On the other hand, women are more likely to get paid while on leave, and this could reduce the inequality documented by the existing research. A more striking result is that more educated workers, on average, are less likely to get paid while on leave. As for closed businesses, household size positively affects the number of voluntarily closed ones, and women are 20% more likely to experience having their business shut down by the authorities. A final remark is that more educated people are less likely to have their workplace closed by the authorities."
+  },
+  {
+    "objectID": "research/other/2021-ciftci-corona/index.html#citation",
+    "href": "research/other/2021-ciftci-corona/index.html#citation",
+    "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
+    "section": "Citation",
+    "text": "Citation\n\n@article{ciftci2021uneven,\n    title={Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey},\n    author={Ciftci, Muhsin},\n    year={2021},\n    journal = {Munich Personal RePEc Archive},\n    url = {https://mpra.ub.uni-muenchen.de/107842/},\n    abstract = {ABSTRACT In this study, we investigate the impact of coronavirus pandemic on increased home office working, provision of payments to dependent employees on leave, and closed workplaces (voluntary or involuntary) of self-employed people using the online GESIS Panel survey on the Coronavirus SARS-COV-2 for Germany. To this end, we use the Bayesian estimation to measure the effects of a pandemic on key outcome variables, taking into account different levels of education, gender, household size, age, and the number of children below certain age of workers. Empirical results show that higher education level, gender, a larger household size, having children below the age of 12 significantly increase home office work. Men are more likely to work from home than women. On the other hand, women are more likely to get paid while on leave, and this could reduce the inequality documented by the existing research. A more striking result is that more educated workers, on average, are less likely to get paid while on leave. As for closed businesses, household size positively affects the number of voluntarily closed ones, and women are 20% more likely to experience having their business shut down by the authorities. A final remark is that more educated people are less likely to have their workplace closed by the authorities.},\n    year = {2021}\n}"
+  },
+  {
+    "objectID": "research/articles/2017-ciftci-yilmaz-erpt/index.html",
+    "href": "research/articles/2017-ciftci-yilmaz-erpt/index.html",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "",
+    "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
+  },
+  {
+    "objectID": "research/articles/2017-ciftci-yilmaz-erpt/index.html#important-links",
+    "href": "research/articles/2017-ciftci-yilmaz-erpt/index.html#important-links",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "",
+    "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
+  },
+  {
+    "objectID": "research/articles/2017-ciftci-yilmaz-erpt/index.html#abstract",
+    "href": "research/articles/2017-ciftci-yilmaz-erpt/index.html#abstract",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "Abstract",
+    "text": "Abstract\nAs a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes characterized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in “high depreciation” regime."
+  },
+  {
+    "objectID": "research/articles/2017-ciftci-yilmaz-erpt/index.html#citation",
+    "href": "research/articles/2017-ciftci-yilmaz-erpt/index.html#citation",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "Citation",
+    "text": "Citation\n@article{ciftci_yilmaz_2017, \ntitle={Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy}, \nvolume={6}, \nurl={https://archive.aessweb.com/index.php/5009/article/view/297}, \nDOI={10.18488/journal.8.2018.61.8.20}, \nabstractNote={&amp;lt;p&amp;gt;As a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes characterized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in “high depreciation” regime.&amp;lt;/p&amp;gt;}, number={1},\njournal={Asian Journal of Economic Modelling}, \nauthor={Çiftçi, Muhsin and Yılmaz, Muhammed Hasan}, \nyear={2017},\nmonth={Dec.},\npages={8–20} }"
+  },
+  {
+    "objectID": "research/research.html",
+    "href": "research/research.html",
     "title": "",
     "section": "",
-    "text": "Research\n\n\n\n\n\n\nOngoing Work\n\n\n\n\nClimate News and Asset Prices: Evidence from Latin America (with Christina Kolerus, IMF)\nUnderlying inflation measures for Germany (with Elisabeth Wieland, Deutsche Bundesbank)\nThe impact of climate change mitigation policies: Europe and beyond Here: WP Version\n\n\n\n\n\n\n\n\n\nPre-PhD Publications\n\n\n\n\nSüleyman Hilmi Kal and Muhsin Çiftçi, “Market Structure and Exchange Rate Pass-Through in the Turkish Manufacturing Industry: Evidence from Sectoral Data,” Bulletin of Economic Research 74, no. 4 (2022): 995–1016, https://doi.org/10.1111/boer.12329.\nMuhsin Çiftçi and Muhammed Hasan Yılmaz, “Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy,” Asian Journal of Economic Modelling 6, no. 1 (2017): 8–20, https://doi.org/10.18488/journal.8.2018.61.8.20.\nMuhsin Ciftci, “Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey,” Munich Personal RePEc Archive, 2021, https://mpra.ub.uni-muenchen.de/107842/."
+    "text": "Recent Work\n\n\n\n    \n        \n            \n                Climate News and Asset Prices: Evidence from Latin America\n            \n\n            \n            \n                \n                    \n                            Climate Change, Asset Pricing, Textual Analysis\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             AI Generated Podcast\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Underlying inflation measures for Germany\n            \n\n            \n            \n                \n                    \n                            Underlying inflation, Machine learning\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             AI Generated Podcast\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items\n\n\n\n\nJournal Articles\n\n\n\n    \n        \n            \n                Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data\n            \n\n            \n            \n                \n                    \n                            Exchange Rate Pass Through\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             AI Generated Podcast\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n        \n            \n                Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy\n            \n\n            \n            \n                \n                    \n                            Exchange Rate Pass Through\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                        \n                        \n                        \n                             AI Generated Podcast\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items\n\n\n\n\nOther\n\n\n\n    \n        \n            \n                Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey\n            \n\n            \n            \n                \n                    \n                            Coronavirus, Covid, Bayesian\n                        \n                    \n            \n            \n\n            \n            \n            \n            \n                \n                    \n                        \n                             Full details »\n                        \n                    \n                    \n                        \n                    \n                        \n                        \n                        \n                             PDF\n                        \n                    \n                        \n                    \n                \n            \n        \n        \n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/articles/2022-ciftci-kal-market structure/index.html",
+    "href": "research/articles/2022-ciftci-kal-market structure/index.html",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
+    "section": "",
+    "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
+  },
+  {
+    "objectID": "research/articles/2022-ciftci-kal-market structure/index.html#important-links",
+    "href": "research/articles/2022-ciftci-kal-market structure/index.html#important-links",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
+    "section": "",
+    "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
+  },
+  {
+    "objectID": "research/articles/2022-ciftci-kal-market structure/index.html#abstract",
+    "href": "research/articles/2022-ciftci-kal-market structure/index.html#abstract",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
+    "section": "Abstract",
+    "text": "Abstract\nIn this paper, we study the impact of market share on exchange rate pass-through to Turkish manufacturing sector prices using four-digit industry level disaggregate data. Our findings provide evidence that exchange rate pass-through in the manufacturing sector has an asymmetric U-shape with respect to market share, implying that highly competitive and concentrated industries pass-through exchange rate movements in both directions (appreciation and depreciation) to local producer prices more than moderately concentrated sectors. However, when directional asymmetries of exchange rate movements are added to the models, results become more revealing, that is, highly monopolized industries pass-through exchange rate depreciation at higher rates than highly competitive industries. We also find that the size of the exchange rate movement has an impact on the asymmetry and the curvature of the U-shaped Exchange Rate Pass-Through (ERPT) curve with respect to the market share."
+  },
+  {
+    "objectID": "research/articles/2022-ciftci-kal-market structure/index.html#citation",
+    "href": "research/articles/2022-ciftci-kal-market structure/index.html#citation",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
+    "section": "Citation",
+    "text": "Citation\n@article{kal2022market,\n  title={Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data},\n  author={Kal, S{\\\"u}leyman Hilmi and {\\c{C}}ift{\\c{c}}i, Muhsin},\n  journal={Bulletin of Economic Research},\n  volume={74},\n  number={4},\n  pages={995--1016},\n  year={2022},\n  publisher={Wiley Online Library}\n}"
+  },
+  {
+    "objectID": "research/recent/2025-buba-underlying/index.html",
+    "href": "research/recent/2025-buba-underlying/index.html",
+    "title": "Underlying inflation measures for Germany",
+    "section": "",
+    "text": "AI Generated Podcast:\nLink to the Paper"
+  },
+  {
+    "objectID": "research/recent/2025-buba-underlying/index.html#important-links",
+    "href": "research/recent/2025-buba-underlying/index.html#important-links",
+    "title": "Underlying inflation measures for Germany",
+    "section": "",
+    "text": "AI Generated Podcast:\nLink to the Paper"
+  },
+  {
+    "objectID": "research/recent/2025-buba-underlying/index.html#abstract",
+    "href": "research/recent/2025-buba-underlying/index.html#abstract",
+    "title": "Underlying inflation measures for Germany",
+    "section": "Abstract",
+    "text": "Abstract"
+  },
+  {
+    "objectID": "research/recent/2025-buba-underlying/index.html#citation",
+    "href": "research/recent/2025-buba-underlying/index.html#citation",
+    "title": "Underlying inflation measures for Germany",
+    "section": "Citation",
+    "text": "Citation"
   },
   {
     "objectID": "posts/programming-languages/index.html",
     "href": "posts/programming-languages/index.html",
     "title": "Programming Languages for Economics",
     "section": "",
-    "text": "Those who study economics and finance or any relevant discipline begin to be exposed to different software to benefit from the real-life data at hand. From my point of view, an important question emerges out of this process: Which one should I use? Is there any single software that can meet all my needs to perform my tasks? The answer to this question very much depends on the specific subject area you work on. Put differently, there is no ideal single software that performs very well for each one. This leads us to the subject area we work again. Depending on the tasks we work on, we may prefer different ones and dismiss others. For instance, those who concentrate on macroeconomics and economic modeling use Matlab or Octave because they allow macro people to run Dynare aimed at Dynamic Stochastic General Equilibrium (DSGE) models. In that sense, those who plan to get a Master’s or Ph.D. in the macro area are well-advised to learn Matlab. However, this is only a piece of the whole picture. If you deal with econometrics and statistics you can use Stata, Eviews, or R and each of them is well suited for a specific sub-area. More clearly, if you generally use micro/panel data, Stata is the best option. The loop and conditional statements are really handy. However, if you focus on time series econometrics, it is better to use Eviews. It has drop-down menus and is handy for a quick and short analysis of time series. From this perspective, Eviews outperforms Stata but it is really bad for micro/panel data analysis. I should point out that in each of them you can do what want but it comes at a higher cost! Therefore, the actual point is to minimize the cost that we put into using that software. On the other hand, we can do all this econometric staff on R as well but it does not have drop-down menus and it might be a little onerous to get used to. However, R is great for data analysis and data visualization. As we all observe, data science begins to get importance each day mainly due to the large and complex data becoming available. Therefore, R is a big and potential software to invest in. What is more, it is free and you can find almost anything in it with myriads of different packages. On the other hand, the preferences for using the software are also subject to change! As technology improves, the capabilities of new software also begin to outperform that of old ones. Also, this new software is free and its codes are available on different platforms. You can develop a package or contribute to it. This feature of new software makes them expand very quickly and have very active communities. One of the most popular and attractive ones in Python. It is really useful for data analysis and it has different scientific libraries. Because of the rise of Python, Matlab begins to lose its popularity even among macro guys. However, in all of this software, we have an important problem: Speed. Depending on your subject, speed may become an important factor for your analysis. For example, even though Python is useful for data analysis and it has different scientific libraries, perhaps it is not as fast as we want! At this point, we meet a new candidate: Julia. Julia language is developed by MIT. Its syntax is very similar to that of Matlab and Python and it does not bring a big-time cost if you want to learn. The beauty of Julia is that it is very fast, because of its property called Multiple Dispatch. It is almost as fast as C & Fortran with very clean syntax. That makes Julia fun to work with. For example, the Federal Reserve Bank of New York has switched to Julia for their DSGE models because of Julia’s speed (it is much faster than Matlab). These properties of new software are killing Matlab. Furthermore, Julia also has different packages for data analysis and the Julia community is expanding fast. All in all, the answer to the question that which software to use depends on what you do.\n\n\n\nCitationBibTeX citation:@online{ciftci2021,\n  author = {Ciftci, Muhsin},\n  title = {Programming {Languages} for {Economics}},\n  date = {2021-10-01},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCiftci, Muhsin. 2021. “Programming Languages for\nEconomics.” October 1, 2021."
+    "text": "Those who study economics and finance or any relevant discipline begin to be exposed to different software to benefit from the real-life data at hand. From my point of view, an important question emerges out of this process: Which one should I use? Is there any single software that can meet all my needs to perform my tasks? The answer to this question very much depends on the specific subject area you work on. Put differently, there is no ideal single software that performs very well for each one. This leads us to the subject area we work again. Depending on the tasks we work on, we may prefer different ones and dismiss others. For instance, those who concentrate on macroeconomics and economic modeling use Matlab or Octave because they allow macro people to run Dynare aimed at Dynamic Stochastic General Equilibrium (DSGE) models. In that sense, those who plan to get a Master’s or Ph.D. in the macro area are well-advised to learn Matlab. However, this is only a piece of the whole picture. If you deal with econometrics and statistics you can use Stata, Eviews, or R and each of them is well suited for a specific sub-area. More clearly, if you generally use micro/panel data, Stata is the best option. The loop and conditional statements are really handy. However, if you focus on time series econometrics, it is better to use Eviews. It has drop-down menus and is handy for a quick and short analysis of time series. From this perspective, Eviews outperforms Stata but it is really bad for micro/panel data analysis. I should point out that in each of them you can do what want but it comes at a higher cost! Therefore, the actual point is to minimize the cost that we put into using that software. On the other hand, we can do all this econometric staff on R as well but it does not have drop-down menus and it might be a little onerous to get used to. However, R is great for data analysis and data visualization. As we all observe, data science begins to get importance each day mainly due to the large and complex data becoming available. Therefore, R is a big and potential software to invest in. What is more, it is free and you can find almost anything in it with myriads of different packages. On the other hand, the preferences for using the software are also subject to change! As technology improves, the capabilities of new software also begin to outperform that of old ones. Also, this new software is free and its codes are available on different platforms. You can develop a package or contribute to it. This feature of new software makes them expand very quickly and have very active communities. One of the most popular and attractive ones in Python. It is really useful for data analysis and it has different scientific libraries. Because of the rise of Python, Matlab begins to lose its popularity even among macro guys. However, in all of this software, we have an important problem: Speed. Depending on your subject, speed may become an important factor for your analysis. For example, even though Python is useful for data analysis and it has different scientific libraries, perhaps it is not as fast as we want! At this point, we meet a new candidate: Julia. Julia language is developed by MIT. Its syntax is very similar to that of Matlab and Python and it does not bring a big-time cost if you want to learn. The beauty of Julia is that it is very fast, because of its property called Multiple Dispatch. It is almost as fast as C & Fortran with very clean syntax. That makes Julia fun to work with. For example, the Federal Reserve Bank of New York has switched to Julia for their DSGE models because of Julia’s speed (it is much faster than Matlab). These properties of new software are killing Matlab. Furthermore, Julia also has different packages for data analysis and the Julia community is expanding fast. All in all, the answer to the question that which software to use depends on what you do.\n\n\n\nCitationBibTeX citation:@online{ciftci2021,\n  author = {Ciftci, Muhsin},\n  title = {Programming {Languages} for {Economics}},\n  date = {2021-10-01},\n  langid = {en}\n}\nFor attribution, please cite this work as:\nCiftci, Muhsin. “Programming Languages for Economics,”\nOctober 1, 2021."
   },
   {
     "objectID": "CV/cv.html",

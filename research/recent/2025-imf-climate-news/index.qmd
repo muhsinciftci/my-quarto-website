@@ -1,0 +1,62 @@
+---
+title: "Climate News and Asset Prices: Evidence from Latin America"
+date: 2025-02-01
+author:
+  - name: Muhsin Ciftci
+    url: https://mciftci.netlify.app
+    affiliation: Goethe University Frankfurt
+  - name: Christina Kolerus
+    affiliation: International Monetary Fund (IMF)
+categories: Climate Change, Asset Pricing, Textual Analysis
+pub-info:
+  reference: >-
+    Climate News and Asset Prices: Evidence from Latin America 
+  links:
+    - name: PDF
+      url: 
+      icon: fa-solid fa-file-pdf
+      local: false
+    - name: AI Generated Podcast
+      url: 
+      icon: fa-solid fa-file-pdf
+      local: false
+#doi:
+page-layout: full
+---
+
+## Important links
+
+- [AI Generated Podcast:]{.ftcol1}
+
+- [Link to the Paper]()
+
+## Abstract
+
+## Citation
+```bibtex
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

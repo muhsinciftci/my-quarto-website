@@ -4,5 +4,15 @@
     "items": [
       "/posts/programming-languages/index.html"
     ]
+  },
+  {
+    "listing": "/research/research.html",
+    "items": [
+      "/research/recent/2025-imf-climate-news/index.html",
+      "/research/recent/2025-buba-underlying/index.html",
+      "/research/articles/2022-ciftci-kal-market structure/index.html",
+      "/research/articles/2017-ciftci-yilmaz-erpt/index.html",
+      "/research/other/2021-ciftci-corona/index.html"
+    ]
   }
 ]

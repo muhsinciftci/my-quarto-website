@@ -1,0 +1,52 @@
+---
+title: "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data"
+date: 2022-02-21
+author:
+  - name: Muhsin Ciftci
+    url: https://mciftci.netlify.app
+    affiliation: Central Bank of Türkiye
+  - name: Suleyman Hilmi Kal
+    affiliation: Central Bank of Türkiye
+categories: Exchange Rate Pass Through
+pub-info:
+  reference: >-
+    Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data
+  links:
+    - name: PDF
+      url: https://onlinelibrary.wiley.com/doi/10.1111/boer.12329
+      icon: fa-solid fa-file-pdf
+      local: false
+    - name: AI Generated Podcast
+      url: https://www.podbean.com/ep/pb-jji5u-17d59ef
+      #icon: fa-solid fa-file-pdf
+      local: false
+doi: 10.1111/boer.12329
+page-layout: full
+---
+
+## Important links
+
+- [AI Generated Podcast:]{.ftcol1}
+
+<iframe title="Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?from=embed&i=jji5u-17d59ef-pb&square=1&share=1&download=1&fonts=Arial&skin=1&font-color=auto&rtl=0&logo_link=episode_page&btn-skin=7&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+- [Link to the Paper](https://onlinelibrary.wiley.com/doi/10.1111/boer.12329)
+
+## Abstract
+
+In this paper, we study the impact of market share on exchange rate pass-through to Turkish manufacturing sector prices using four-digit industry level disaggregate data. Our findings provide evidence that exchange rate pass-through in the manufacturing sector has an asymmetric U-shape with respect to market share, implying that highly competitive and concentrated industries pass-through exchange rate movements in both directions (appreciation and depreciation) to local producer prices more than moderately concentrated sectors. However, when directional asymmetries of exchange rate movements are added to the models, results become more revealing, that is, highly monopolized industries pass-through exchange rate depreciation at higher rates than highly competitive industries. We also find that the size of the exchange rate movement has an impact on the asymmetry and the curvature of the U-shaped Exchange Rate Pass-Through (ERPT) curve with respect to the market share.
+
+## Citation
+
+``` bibtex
+@article{kal2022market,
+  title={Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data},
+  author={Kal, S{\"u}leyman Hilmi and {\c{C}}ift{\c{c}}i, Muhsin},
+  journal={Bulletin of Economic Research},
+  volume={74},
+  number={4},
+  pages={995--1016},
+  year={2022},
+  publisher={Wiley Online Library}
+}
+```

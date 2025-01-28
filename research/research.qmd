@@ -1,0 +1,44 @@
+---
+#title: "Research"
+listing:
+  - id: recent
+    contents: "recent/*/index.qmd"
+    sort: "date desc"
+    template: ../styles/research_listing.ejs
+    categories: true
+  - id: articles
+    contents: "articles/*/index.qmd"
+    sort: "date desc"
+    template: ../styles/research_listing.ejs
+    categories: true
+  - id: other
+    contents: "other/*/index.qmd"
+    sort: "date desc"
+    template: ../styles/research_listing.ejs
+    categories: true
+include-back-link: true
+toc: false
+#toc-location: right
+#fontsize: 15pt
+#toc-title: Sections
+#page-size: 200
+fields: [title, subtitle, author, image, date, categories]
+title-block-banner: false
+suppress-bibliography: true
+link-citations: false
+citations-hover: true
+page-layout: full
+---
+
+### Recent Work
+::: {#recent}
+:::
+
+### Journal Articles
+::: {#articles}
+:::
+
+
+### Other
+::: {#other}
+:::

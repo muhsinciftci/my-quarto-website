@@ -1,0 +1,62 @@
+---
+title: "Underlying inflation measures for Germany"
+date: 2025-01-01
+author:
+  - name: Muhsin Ciftci
+    url: https://mciftci.netlify.app
+    affiliation: Goethe University Frankfurt
+  - name: Elisabeth Wieland
+    affiliation: Deutsche Bundesbank
+categories: Underlying inflation, Machine learning
+pub-info:
+  reference: >-
+    Underlying inflation measures for Germany 
+  links:
+    - name: PDF
+      url: 
+      icon: fa-solid fa-file-pdf
+      local: false
+    - name: AI Generated Podcast
+      url: 
+      icon: fa-solid fa-file-pdf
+      local: false
+#doi:
+page-layout: full
+---
+
+## Important links
+
+- [AI Generated Podcast:]{.ftcol1}
+
+- [Link to the Paper]()
+
+## Abstract
+
+## Citation
+```bibtex
+
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>blog</title>
+<title>research</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,25 +23,25 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
-<script src="site_libs/clipboard/clipboard.min.js"></script>
-<script src="site_libs/quarto-search/autocomplete.umd.js"></script>
-<script src="site_libs/quarto-search/fuse.min.js"></script>
-<script src="site_libs/quarto-search/quarto-search.js"></script>
-<meta name="quarto:offset" content="./">
-<link href=".//media/profile.png" rel="icon" type="image/png">
-<script src="site_libs/quarto-listing/list.min.js"></script>
-<script src="site_libs/quarto-listing/quarto-listing.js"></script>
-<script src="site_libs/quarto-html/quarto.js"></script>
-<script src="site_libs/quarto-html/popper.min.js"></script>
-<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
-<script src="site_libs/quarto-html/anchor.min.js"></script>
-<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="site_libs/bootstrap/bootstrap-d7b58d19087431af4afb5e31f561d50f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
+<script src="../site_libs/quarto-nav/headroom.min.js"></script>
+<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<script src="../site_libs/quarto-search/autocomplete.umd.js"></script>
+<script src="../site_libs/quarto-search/fuse.min.js"></script>
+<script src="../site_libs/quarto-search/quarto-search.js"></script>
+<meta name="quarto:offset" content="../">
+<link href="..//media/profile.png" rel="icon" type="image/png">
+<script src="../site_libs/quarto-listing/list.min.js"></script>
+<script src="../site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="../site_libs/quarto-html/quarto.js"></script>
+<script src="../site_libs/quarto-html/popper.min.js"></script>
+<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
+<script src="../site_libs/quarto-html/anchor.min.js"></script>
+<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="../site_libs/bootstrap/bootstrap-d7b58d19087431af4afb5e31f561d50f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -72,20 +72,76 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-recent .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
     }
 
     const options = {
-      valueNames: ['listing-title','listing-subtitle','listing-author','listing-image','listing-date','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      valueNames: ['listing-project','listing-freeze','listing-from','listing-website','listing-bibliography','listing-csl','listing-format','listing-language','listing-date-format','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-page-layout','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
       
-      searchColumns: ["listing-title","listing-author","listing-date","listing-image","listing-description","listing-categories"],
+      searchColumns: ["listing-project","listing-freeze","listing-from","listing-website","listing-bibliography","listing-csl","listing-format","listing-language","listing-date-format","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-page-layout","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-recent'] = new List('listing-recent', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-articles .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-freeze','listing-from','listing-website','listing-bibliography','listing-csl','listing-format','listing-language','listing-date-format','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-doi','listing-page-layout','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-freeze","listing-from","listing-website","listing-bibliography","listing-csl","listing-format","listing-language","listing-date-format","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-doi","listing-page-layout","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-articles'] = new List('listing-articles', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-other .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-project','listing-freeze','listing-from','listing-website','listing-bibliography','listing-csl','listing-format','listing-language','listing-date-format','listing-execute','listing-include-back-link','listing-title','listing-date','listing-author','listing-categories','listing-pub-info','listing-page-layout','listing-path','listing-outputHref','listing-date-modified','listing-description','listing-filename','listing-file-modified','listing-reading-time','listing-word-count',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-date-modified-sort'] },{ data: ['listing-file-modified-sort'] },{ data: ['listing-reading-time-sort'] },{ data: ['listing-word-count-sort'] }],
+      
+      searchColumns: ["listing-project","listing-freeze","listing-from","listing-website","listing-bibliography","listing-csl","listing-format","listing-language","listing-date-format","listing-execute","listing-include-back-link","listing-title","listing-date","listing-author","listing-categories","listing-pub-info","listing-page-layout","listing-path","listing-outputHref","listing-date-modified","listing-description","listing-filename","listing-file-modified","listing-reading-time","listing-word-count"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-other'] = new List('listing-other', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -144,15 +200,15 @@ window.Quarto = {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
+    <a class="nav-link" href="../index.html"> 
 <span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./research/research.html"> 
+    <a class="nav-link active" href="../research/research.html" aria-current="page"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./blog.html" aria-current="page"> 
+    <a class="nav-link" href="../blog.html"> 
 <span class="menu-text">Blog</span></a>
   </li>  
 </ul>
@@ -167,55 +223,289 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RWNvbm9taWNz">Economics <span class="quarto-category-count">(1)</span></div><div class="category" data-category="UHJvZ3JhbW1pbmc=">Programming <span class="quarto-category-count">(1)</span></div></div></div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(5)</span></div><div class="category" data-category="Q2xpbWF0ZSUyMENoYW5nZSUyQyUyMEFzc2V0JTIwUHJpY2luZyUyQyUyMFRleHR1YWwlMjBBbmFseXNpcw==">Climate Change, Asset Pricing, Textual Analysis <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Q29yb25hdmlydXMlMkMlMjBDb3ZpZCUyQyUyMEJheWVzaWFu">Coronavirus, Covid, Bayesian <span class="quarto-category-count">(1)</span></div><div class="category" data-category="RXhjaGFuZ2UlMjBSYXRlJTIwUGFzcyUyMFRocm91Z2g=">Exchange Rate Pass Through <span class="quarto-category-count">(2)</span></div><div class="category" data-category="VW5kZXJseWluZyUyMGluZmxhdGlvbiUyQyUyME1hY2hpbmUlMjBsZWFybmluZw==">Underlying inflation, Machine learning <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content column-page-left" id="quarto-document-content"><header id="title-block-header" class="quarto-title-block"></header>
 
 
 
 
+<section id="recent-work" class="level3">
+<h3 class="anchored" data-anchor-id="recent-work">Recent Work</h3>
+<div id="listing-recent" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="Q2xpbWF0ZSUyMENoYW5nZSUyQyUyMEFzc2V0JTIwUHJpY2luZyUyQyUyMFRleHR1YWwlMjBBbmFseXNpcw==" data-listing-date-sort="1738364400000" data-listing-file-modified-sort="1738092917751" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+            <div class="project-content listing-pub-info">
+                <p>Climate News and Asset Prices: Evidence from Latin America</p>
+            </div>
 
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=Climate Change, Asset Pricing, Textual Analysis">
+                            Climate Change, Asset Pricing, Textual Analysis
+                        </a></div>
+                    
+            </div>
+            
 
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="../research/recent/2025-imf-climate-news/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> PDF
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> AI Generated Podcast
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+        <li class="project" data-index="1" data-categories="VW5kZXJseWluZyUyMGluZmxhdGlvbiUyQyUyME1hY2hpbmUlMjBsZWFybmluZw==" data-listing-date-sort="1735686000000" data-listing-file-modified-sort="1738092924991" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+            <div class="project-content listing-pub-info">
+                <p>Underlying inflation measures for Germany</p>
+            </div>
 
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=Underlying inflation, Machine learning">
+                            Underlying inflation, Machine learning
+                        </a></div>
+                    
+            </div>
+            
 
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
-<div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="UHJvZ3JhbW1pbmclMkNFY29ub21pY3M=" data-listing-date-sort="1633039200000" data-listing-file-modified-sort="1738027288029" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="4" data-listing-word-count-sort="699">
-<a href="./posts/programming-languages/index.html" class="quarto-grid-link">
-<div class="quarto-grid-item card h-100 card-left">
-<p class="card-img-top">
-<img loading="lazy" src="./posts/programming-languages/jupyter.png" class="thumbnail-image card-img" style="height: 150px;">
-</p>
-<div class="card-body post-contents">
-<h5 class="no-anchor card-title listing-title">
-Programming Languages for Economics
-</h5>
-<div class="listing-categories">
-<div class="listing-category" onclick="window.quartoListingCategory('UHJvZ3JhbW1pbmc='); return false;">
-Programming
-</div>
-<div class="listing-category" onclick="window.quartoListingCategory('RWNvbm9taWNz'); return false;">
-Economics
-</div>
-</div>
-<div class="card-attribution card-text-small justify">
-<div class="listing-author">
-Muhsin Ciftci
-</div>
-<div class="listing-date">
-October 1, 2021
-</div>
-</div>
-</div>
-</div>
-</a>
-</div>
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="../research/recent/2025-buba-underlying/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> PDF
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> AI Generated Podcast
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+</ul>
 </div>
 <div class="listing-no-matching d-none">
 No matching items
 </div>
-</div></main> <!-- /main -->
+</div>
+</section>
+<section id="journal-articles" class="level3">
+<h3 class="anchored" data-anchor-id="journal-articles">Journal Articles</h3>
+<div id="listing-articles" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="RXhjaGFuZ2UlMjBSYXRlJTIwUGFzcyUyMFRocm91Z2g=" data-listing-date-sort="1645398000000" data-listing-file-modified-sort="1738088887410" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="2" data-listing-word-count-sort="217">
+            <div class="project-content listing-pub-info">
+                <p>Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data</p>
+            </div>
+
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=Exchange Rate Pass Through">
+                            Exchange Rate Pass Through
+                        </a></div>
+                    
+            </div>
+            
+
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="../research/articles/2022-ciftci-kal-market structure/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://onlinelibrary.wiley.com/doi/10.1111/boer.12329">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> PDF
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://www.podbean.com/ep/pb-jji5u-17d59ef">
+                        
+                            <i class=""></i> AI Generated Podcast
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+        <li class="project" data-index="1" data-categories="RXhjaGFuZ2UlMjBSYXRlJTIwUGFzcyUyMFRocm91Z2g=" data-listing-date-sort="1514761200000" data-listing-file-modified-sort="1738089001083" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="406">
+            <div class="project-content listing-pub-info">
+                <p>Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy</p>
+            </div>
+
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=Exchange Rate Pass Through">
+                            Exchange Rate Pass Through
+                        </a></div>
+                    
+            </div>
+            
+
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="../research/articles/2017-ciftci-yilmaz-erpt/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://archive.aessweb.com/index.php/5009/article/view/297">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> PDF
+                        </a>
+                    </li>
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://www.podbean.com/ep/pb-a6r56-17d60d6">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> AI Generated Podcast
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+</ul>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="other" class="level3">
+<h3 class="anchored" data-anchor-id="other">Other</h3>
+<div id="listing-other" class="quarto-listing quarto-listing-container-custom">
+<div class="research project-list">
+<ul class="list">
+    
+        <li class="project" data-index="0" data-categories="Q29yb25hdmlydXMlMkMlMjBDb3ZpZCUyQyUyMEJheWVzaWFu" data-listing-date-sort="1622066400000" data-listing-file-modified-sort="1738089881754" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="3" data-listing-word-count-sort="452">
+            <div class="project-content listing-pub-info">
+                <p>Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey</p>
+            </div>
+
+            
+            <div class="project-categories">
+                
+                    <div class="project-category"><a href="#category=Coronavirus, Covid, Bayesian">
+                            Coronavirus, Covid, Bayesian
+                        </a></div>
+                    
+            </div>
+            
+
+            
+            
+            
+            <div class="project-details-listing">
+                <ul class="project-links">
+                    <li class="project-link details">
+                        <a href="../research/other/2021-ciftci-corona/index.html" class="listing-name">
+                            <i class="fa-solid fa-circle-info"></i> Full details »
+                        </a>
+                    </li>
+                    
+                        
+                    <li class="project-link">
+                        
+                        <a href="https://mpra.ub.uni-muenchen.de/107842/">
+                        
+                            <i class="fa-solid fa-file-pdf"></i> PDF
+                        </a>
+                    </li>
+                        
+                    
+                </ul>
+            </div>
+        </li>
+        
+</ul>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

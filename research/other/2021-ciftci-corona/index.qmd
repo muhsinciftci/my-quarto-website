@@ -1,0 +1,63 @@
+---
+title: "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey"
+date: 2021-05-27
+author:
+  - name: Muhsin Ciftci
+    url: https://mciftci.netlify.app
+    affiliation: Central Bank of Türkiye
+categories: Coronavirus, Covid, Bayesian
+pub-info:
+  reference: >-
+    Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey 
+  links:
+    - name: PDF
+      url: https://mpra.ub.uni-muenchen.de/107842/
+      icon: fa-solid fa-file-pdf
+      local: false
+page-layout: full
+---
+
+## Important links
+
+- [Link to the Paper](https://mpra.ub.uni-muenchen.de/107842/)
+
+## Abstract
+In this study, we investigate the impact of coronavirus pandemic on increased home office working, provision of payments to dependent employees on leave, and closed workplaces (voluntary or involuntary) of self-employed people using the online GESIS Panel survey on the Coronavirus SARS-COV-2 for Germany. To this end, we use the Bayesian estimation to measure the effects of a pandemic on key outcome variables, taking into account different levels of education, gender, household size, age, and the number of children below certain age of workers. Empirical results show that higher education level, gender, a larger household size, having children below the age of 12 significantly increase home office work. Men are more likely to work from home than women. On the other hand, women are more likely to get paid while on leave, and this could reduce the inequality documented by the existing research. A more striking result is that more educated workers, on average, are less likely to get paid while on leave. As for closed businesses, household size positively affects the number of voluntarily closed ones, and women are 20% more likely to experience having their business shut down by the authorities. A final remark is that more educated people are less likely to have their workplace closed by the authorities.
+
+## Citation
+```bibtex
+
+@article{ciftci2021uneven,
+	title={Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey},
+	author={Ciftci, Muhsin},
+	year={2021},
+	journal = {Munich Personal RePEc Archive},
+	url = {https://mpra.ub.uni-muenchen.de/107842/},
+	abstract = {ABSTRACT In this study, we investigate the impact of coronavirus pandemic on increased home office working, provision of payments to dependent employees on leave, and closed workplaces (voluntary or involuntary) of self-employed people using the online GESIS Panel survey on the Coronavirus SARS-COV-2 for Germany. To this end, we use the Bayesian estimation to measure the effects of a pandemic on key outcome variables, taking into account different levels of education, gender, household size, age, and the number of children below certain age of workers. Empirical results show that higher education level, gender, a larger household size, having children below the age of 12 significantly increase home office work. Men are more likely to work from home than women. On the other hand, women are more likely to get paid while on leave, and this could reduce the inequality documented by the existing research. A more striking result is that more educated workers, on average, are less likely to get paid while on leave. As for closed businesses, household size positively affects the number of voluntarily closed ones, and women are 20% more likely to experience having their business shut down by the authorities. A final remark is that more educated people are less likely to have their workplace closed by the authorities.},
+	year = {2021}
+}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

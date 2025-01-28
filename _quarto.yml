@@ -13,22 +13,23 @@ website:
     card-style: summary_large_image
   page-navigation: false
   page-footer:
-    right: ":school: Quarto"
-    border: true
+  #  right: ":school: Quarto"
+    border: false
   navbar:
     #search: false
     right:
       - href: index.qmd
         text: Home
       - text: Research
-        href: research.qmd
+        href: research/research.qmd
       - text: Blog
         href: blog.qmd
+bibliography: [bib/my_articles.bib, bib/my_wp.bib]
+csl: styles/chicago.csl
 format:
   html:
     linestretch: 2pt
     fontsize: 14pt
-    theme: ['styles/main.scss']
+    theme: [styles/andrew-heiss.scss, styles/main.scss]
     lang: en
     date-format: long
-    
