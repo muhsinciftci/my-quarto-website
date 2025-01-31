@@ -1,5 +1,6 @@
 ---
 title: "Underlying inflation measures for Germany"
+subtitle: Bundesbank Technical Paper
 date: 2025-01-01
 author:
   - name: Muhsin Ciftci
@@ -7,19 +8,10 @@ author:
     affiliation: Goethe University Frankfurt
   - name: Elisabeth Wieland
     affiliation: Deutsche Bundesbank
-categories: Underlying inflation, Machine learning
-pub-info:
-  reference: >-
-    Underlying inflation measures for Germany 
-  links:
-    - name: PDF
-      url: 
-      icon: fa-solid fa-file-pdf
-      local: false
-    - name: AI Generated Podcast
-      url: 
-      icon: fa-solid fa-file-pdf
-      local: false
+categories: 
+   - Underlying inflation
+   - Machine learning
+   - Monetary Policy
 #doi:
 page-layout: full
 ---

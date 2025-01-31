@@ -1,19 +1,14 @@
 ---
 title: "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey"
+subtitle: Munich RePEC Archive
 date: 2021-05-27
 author:
   - name: Muhsin Ciftci
     url: https://mciftci.netlify.app
     affiliation: Central Bank of Türkiye
-categories: Coronavirus, Covid, Bayesian
-pub-info:
-  reference: >-
-    Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey 
-  links:
-    - name: PDF
-      url: https://mpra.ub.uni-muenchen.de/107842/
-      icon: fa-solid fa-file-pdf
-      local: false
+categories: 
+   - Covid
+   - Bayesian
 page-layout: full
 ---
 

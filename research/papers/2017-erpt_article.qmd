@@ -1,5 +1,6 @@
 ---
 title: "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy"
+subtitle: Asian Journal of Economic Modeling
 date: 2018-01-01
 author:
   - name: Muhsin Ciftci
@@ -7,19 +8,9 @@ author:
     affiliation: Central Bank of Türkiye
   - name: Muhammed Hasan Yilmaz
     affiliation: Central Bank of Türkiye
-categories: Exchange Rate Pass Through
-pub-info:
-  reference: >-
-    Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy 
-  links:
-    - name: PDF
-      url: https://archive.aessweb.com/index.php/5009/article/view/297
-      icon: fa-solid fa-file-pdf
-      local: false
-    - name: AI Generated Podcast
-      url: https://www.podbean.com/ep/pb-a6r56-17d60d6
-      icon: fa-solid fa-file-pdf
-      local: false
+categories: 
+   - Exchange Rate Pass-through
+   - Inflation
 doi: 10.18488/journal.8.2018.61.8.20
 page-layout: full
 ---
@@ -34,42 +25,5 @@ page-layout: full
 
 ## Abstract
 As a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes characterized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in “high depreciation” regime.
-
-## Citation
-```bibtex
-@article{ciftci_yilmaz_2017, 
-title={Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy}, 
-volume={6}, 
-url={https://archive.aessweb.com/index.php/5009/article/view/297}, 
-DOI={10.18488/journal.8.2018.61.8.20}, 
-abstractNote={&amp;lt;p&amp;gt;As a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes characterized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in “high depreciation” regime.&amp;lt;/p&amp;gt;}, number={1},
-journal={Asian Journal of Economic Modelling}, 
-author={Çiftçi, Muhsin and Yılmaz, Muhammed Hasan}, 
-year={2017},
-month={Dec.},
-pages={8–20} }
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 

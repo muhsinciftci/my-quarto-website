@@ -1,7 +1,6 @@
 project:
   type: website
 
-freeze: true
 from: markdown+emoji
 website:
   #title: 'Home'
@@ -13,7 +12,7 @@ website:
     card-style: summary_large_image
   page-navigation: false
   page-footer:
-  #  right: ":school: Quarto"
+    right: ":school:"
     border: false
   navbar:
     #search: false
@@ -30,6 +29,9 @@ format:
   html:
     linestretch: 2pt
     fontsize: 14pt
-    theme: [styles/andrew-heiss.scss, styles/main.scss]
+    theme: [styles/main.scss]
     lang: en
     date-format: long
+
+execute: 
+  freeze: auto

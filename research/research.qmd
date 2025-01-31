@@ -1,34 +1,25 @@
 ---
-#title: "Research"
+title: "Academic Research"
 listing:
   - id: recent
-    contents: "recent/*/index.qmd"
-    sort: "date desc"
-    template: ../styles/research_listing.ejs
-    categories: true
+    contents: "papers/*_recent.qmd"
+    categories: false
   - id: articles
-    contents: "articles/*/index.qmd"
-    sort: "date desc"
-    template: ../styles/research_listing.ejs
-    categories: true
+    contents: "papers/*_article.qmd"
+    categories: false
   - id: other
-    contents: "other/*/index.qmd"
-    sort: "date desc"
-    template: ../styles/research_listing.ejs
-    categories: true
-include-back-link: true
+    contents: "papers/*_other.qmd"
+    categories: false
 toc: false
-#toc-location: right
-#fontsize: 15pt
-#toc-title: Sections
-#page-size: 200
-fields: [title, subtitle, author, image, date, categories]
-title-block-banner: false
+title-block-banner: true
 suppress-bibliography: true
 link-citations: false
 citations-hover: true
 page-layout: full
+linestrech: 1
 ---
+
+_For full details, including podcasts, citation information and abstracts, click on the title of each paper._
 
 ### Recent Work
 ::: {#recent}

@@ -1,0 +1,38 @@
+
+/*-- scss:defaults --*/
+$web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..900;1,100..900&family=Libre+Franklin:ital,wght@0,100..900;1,100..900&display=swap" !default;
+
+@if $web-font-path {
+    @import url($web-font-path);
+}
+
+.listing-title {
+  width: 175%;
+  font-size: 2em;
+  
+  transition: all 0.3s ease-in-out; // Smooth transition effect
+  &:hover, a:hover {
+    color: brown;
+    font-weight: bold;
+    transform: scale(1.1);
+  }
+}
+
+// Journal
+.listing-subtitle {
+  color: gray;
+  font-style: italic;
+  font-size: 0.9em;
+}
+
+// Text content of qmd files
+.listing-description {
+  display: none;
+}
+
+// Authors
+.listing-author {
+  color: gray;
+  font-size: 0.8em;
+  font-style: italic;
+}

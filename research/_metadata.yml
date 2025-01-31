@@ -16,3 +16,4 @@ execute:
   warning: false
 
 include-back-link: true
+theme: ../styles/research_listing.scss
