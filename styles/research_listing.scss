@@ -7,22 +7,25 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..
 }
 
 .listing-title {
-  width: 175%;
-  font-size: 2em;
+  width: 200%;
+  font-size: 1.15em;
   
   transition: all 0.3s ease-in-out; // Smooth transition effect
   &:hover, a:hover {
     color: brown;
     font-weight: bold;
-    transform: scale(1.1);
+    //transform: scale(1.1);
   }
 }
 
-// Journal
+// Journal: Write no-external within subtitle otherwise it will change oter sections too
 .listing-subtitle {
-  color: gray;
-  font-style: italic;
-  font-size: 0.9em;
+  
+  .no-external{
+    color: gray;
+    font-size: 0.9em;
+    font-style: italic;
+  }
 }
 
 // Text content of qmd files
@@ -33,6 +36,9 @@ $web-font-path: "https://fonts.googleapis.com/css2?family=Jost:ital,wght@0,100..
 // Authors
 .listing-author {
   color: gray;
-  font-size: 0.8em;
+  font-size: 0.9em;
   font-style: italic;
 }
+
+
+

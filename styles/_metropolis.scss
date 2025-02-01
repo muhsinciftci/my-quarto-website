@@ -11,9 +11,10 @@ $font-family-sans-serif: "Libre Franklin" !default;
 $headings-font-family: "Jost" !default;
 $headings-font-weight: 500 !default;
 
-$navbar-font-family: "Jost" !default;
-$toc-font-family: "Jost" !default;
-$footer-font-family: "Jost" !default;
+$body-font-family: "Halvetica" !default;
+$navbar-font-family: "Halvetica" !default;
+$toc-font-family: "Halvetica" !default;
+$footer-font-family: "Halvetica" !default;
 
 // colors
 $body-bg: $ftcol4 !default;
@@ -25,7 +26,7 @@ $navbar-bg: $ftcol4 !default;
 body * {
   color: black;
   background-color: $ftcol4;
-  font-size: 19px;
+  font-size: 0.98em;
 }
 
 // Colors of header

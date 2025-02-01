@@ -24,12 +24,9 @@ _For full details, including podcasts, citation information and abstracts, click
 ### Recent Work
 ::: {#recent}
 :::
-
 ### Journal Articles
 ::: {#articles}
 :::
-
-
 ### Other
 ::: {#other}
 :::
