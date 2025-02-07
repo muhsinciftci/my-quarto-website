@@ -12,7 +12,7 @@ categories:
    - Exchange Rate Pass-through
    - Sectoral Data
 doi: 10.1111/boer.12329
-page-layout: full
+page-layout: article
 ---
 
 ## Important links

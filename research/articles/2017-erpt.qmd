@@ -12,7 +12,7 @@ categories:
    - Exchange Rate Pass-through
    - Inflation
 doi: 10.18488/journal.8.2018.61.8.20
-page-layout: full
+page-layout: article
 ---
 
 ## Important links

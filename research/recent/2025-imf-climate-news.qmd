@@ -1,0 +1,43 @@
+---
+title: "Climate News and Asset Prices: Evidence from Latin America"
+date: 2025-02-07
+subtitle: IMF Working Paper
+author:
+  - name: Muhsin Ciftci
+    url: https://mciftci.netlify.app
+    affiliation: Goethe University Frankfurt
+  - name: Christina Kolerus
+    affiliation: International Monetary Fund (IMF)
+categories: 
+   - Climate Change
+   - Asset Pricing
+   - Textual Analysis
+doi: 10.5089/9798229000932.001
+page-layout: full
+---
+
+## Important links
+
+- [AI Generated Podcast:]{.ftcol1}
+
+<iframe title="Climate News and Asset Valuations: Insights from Latin America" allowtransparency="true" height="300" width="100%" style="border: none; min-width: min(100%, 430px);height:300px;" scrolling="no" data-name="pb-iframe-player" src="https://www.podbean.com/player-v2/?i=7kuw6-17ed970-pb&from=pb6admin&square=1&share=1&download=1&rtl=0&fonts=Arial&skin=1&font-color=auto&logo_link=episode_page&btn-skin=2baf9e&size=300" loading="lazy" allowfullscreen=""></iframe>
+
+- [Link to the Paper](https://www.imf.org/en/Publications/WP/Issues/2025/02/07/Climate-News-and-Asset-Valuations-Insights-from-Latin-America-561603)
+
+## Abstract
+We study the impact of climate-related news on asset prices in eight Latin American countries. We use both newspapers and official announcements to construct daily, country-specific indices via textual analysis, reflecting media coverage of transition risks, climate opportunities, regulatory actions, and physical risks. Leveraging an unbalanced daily panel data set of 628 firms from 2000 to 2023, we find a significant and robust climate risk premium in Latin America, which is higher for "browner" firms and has increased in more recent years. Focusing on major climate policies announced in official gazettes after the legislative process has been completed, we show that the publication of the laws is associated with a protracted decline in the relative stock prices of high-emission firms.
+
+## Key figures
+
+#### Climate change exposure measures
+![](https://raw.githubusercontent.com/muhsinciftci/public-good/main/pics/2025-02-imf/newspapers_plot_all_once.png)
+
+#### Time varying climate risk premium
+![](https://raw.githubusercontent.com/muhsinciftci/public-good/main/pics/2025-02-imf/plot_risk_premium_rolling.png)
+
+#### Country level average risk premiums
+![](https://raw.githubusercontent.com/muhsinciftci/public-good/main/pics/2025-02-imf/country_risk_premiums.png)
+
+#### Differential responses between brown and green firms to regulatory news 
+![](https://raw.githubusercontent.com/muhsinciftci/public-good/main/pics/2025-02-imf/irf.png)
+

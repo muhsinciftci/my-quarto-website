@@ -8,11 +8,11 @@
   {
     "listing": "/research/research.html",
     "items": [
-      "/research/papers/2025-imf-climate-news_recent.html",
-      "/research/papers/2025-bundesbank-underlying_recent.html",
-      "/research/papers/2022-erpt-market-structure_article.html",
-      "/research/papers/2017-erpt_article.html",
-      "/research/papers/2021-corona_other.html"
+      "/research/recent/2025-imf-climate-news.html",
+      "/research/recent/2025-bundesbank-underlying.html",
+      "/research/articles/2022-erpt-market-structure.html",
+      "/research/articles/2017-erpt.html",
+      "/research/other/2021-corona.html"
     ]
   }
 ]

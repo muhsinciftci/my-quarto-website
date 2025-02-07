@@ -61,6 +61,14 @@ h1, h2, h3, h4, h5, h6, .title, .anchored {
 }
 
 
+// Icons in about
+.about-link {
+  transition: all 0.2s ease-in-out; // Smooth transition effect
+  &:hover, a:hover {
+    font-weight: bold;
+    transform: scale(1.2);
+  }
+}
 
 
 

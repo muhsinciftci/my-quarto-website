@@ -2,13 +2,13 @@
 title: "Academic Research"
 listing:
   - id: recent
-    contents: "papers/*_recent.qmd"
+    contents: "recent/*.qmd"
     categories: false
   - id: articles
-    contents: "papers/*_article.qmd"
+    contents: "articles/*.qmd"
     categories: false
   - id: other
-    contents: "papers/*_other.qmd"
+    contents: "other/*.qmd"
     categories: false
 toc: false
 title-block-banner: true

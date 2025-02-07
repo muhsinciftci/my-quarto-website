@@ -13,7 +13,7 @@ categories:
    - Machine learning
    - Monetary Policy
 #doi:
-page-layout: full
+page-layout: article
 ---
 
 ## Important links

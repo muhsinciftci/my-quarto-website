@@ -14,74 +14,67 @@
     "text": "Hello!\nI am a Ph.D. candidate in Economics at Goethe University Frankfurt School of Economics. My research interests lie within the intersection of economics of climate change and macro-econometrics. I further analyze the textual data using machine learning techniques and combine it with macro-econometric models in my research.\nBefore joining Goethe University Frankfurt, I received a Master of Science in Economics from Middle East Technical University, and at the same time, I worked as a researcher at the research and monetary policy department of the Central Bank of Turkey.\n\n\n\nInterests\n\nEconomics of Climate Change\nMacro Econometrics\nAnalysis of Textual Data\n\n\n\n\nEducation\n Ph.D. in Economics, Goethe University Frankfurt, Germany | 2019 - Present\n M.Sc. in Economics, Middle East Technical University, Turkey | 2017 - 2019\n B.A. in Economics, Bogazici University, Turkey | 2010 - 2015"
   },
   {
-    "objectID": "research/papers/2025-imf-climate-news_recent.html",
-    "href": "research/papers/2025-imf-climate-news_recent.html",
+    "objectID": "research/recent/2025-imf-climate-news.html",
+    "href": "research/recent/2025-imf-climate-news.html",
     "title": "Climate News and Asset Prices: Evidence from Latin America",
-    "section": "",
-    "text": "AI Generated Podcast:\nLink to the Paper"
-  },
-  {
-    "objectID": "research/papers/2025-imf-climate-news_recent.html#important-links",
-    "href": "research/papers/2025-imf-climate-news_recent.html#important-links",
-    "title": "Climate News and Asset Prices: Evidence from Latin America",
-    "section": "",
-    "text": "AI Generated Podcast:\nLink to the Paper"
-  },
-  {
-    "objectID": "research/papers/2025-imf-climate-news_recent.html#abstract",
-    "href": "research/papers/2025-imf-climate-news_recent.html#abstract",
-    "title": "Climate News and Asset Prices: Evidence from Latin America",
-    "section": "Abstract",
-    "text": "Abstract"
-  },
-  {
-    "objectID": "research/papers/2022-erpt-market-structure_article.html",
-    "href": "research/papers/2022-erpt-market-structure_article.html",
-    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
     "section": "",
     "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
   },
   {
-    "objectID": "research/papers/2022-erpt-market-structure_article.html#important-links",
-    "href": "research/papers/2022-erpt-market-structure_article.html#important-links",
-    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
+    "objectID": "research/recent/2025-imf-climate-news.html#important-links",
+    "href": "research/recent/2025-imf-climate-news.html#important-links",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
     "section": "",
     "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
   },
   {
-    "objectID": "research/papers/2022-erpt-market-structure_article.html#abstract",
-    "href": "research/papers/2022-erpt-market-structure_article.html#abstract",
-    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
+    "objectID": "research/recent/2025-imf-climate-news.html#abstract",
+    "href": "research/recent/2025-imf-climate-news.html#abstract",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
     "section": "Abstract",
-    "text": "Abstract\nIn this paper, we study the impact of market share on exchange rate pass-through to Turkish manufacturing sector prices using four-digit industry level disaggregate data. Our findings provide evidence that exchange rate pass-through in the manufacturing sector has an asymmetric U-shape with respect to market share, implying that highly competitive and concentrated industries pass-through exchange rate movements in both directions (appreciation and depreciation) to local producer prices more than moderately concentrated sectors. However, when directional asymmetries of exchange rate movements are added to the models, results become more revealing, that is, highly monopolized industries pass-through exchange rate depreciation at higher rates than highly competitive industries. We also find that the size of the exchange rate movement has an impact on the asymmetry and the curvature of the U-shaped Exchange Rate Pass-Through (ERPT) curve with respect to the market share."
+    "text": "Abstract\nWe study the impact of climate-related news on asset prices in eight Latin American countries. We use both newspapers and official announcements to construct daily, country-specific indices via textual analysis, reflecting media coverage of transition risks, climate opportunities, regulatory actions, and physical risks. Leveraging an unbalanced daily panel data set of 628 firms from 2000 to 2023, we find a significant and robust climate risk premium in Latin America, which is higher for “browner” firms and has increased in more recent years. Focusing on major climate policies announced in official gazettes after the legislative process has been completed, we show that the publication of the laws is associated with a protracted decline in the relative stock prices of high-emission firms."
   },
   {
-    "objectID": "research/papers/2021-corona_other.html",
-    "href": "research/papers/2021-corona_other.html",
+    "objectID": "research/other/2021-corona.html",
+    "href": "research/other/2021-corona.html",
     "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
     "section": "",
     "text": "Link to the Paper"
   },
   {
-    "objectID": "research/papers/2021-corona_other.html#important-links",
-    "href": "research/papers/2021-corona_other.html#important-links",
+    "objectID": "research/other/2021-corona.html#important-links",
+    "href": "research/other/2021-corona.html#important-links",
     "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
     "section": "",
     "text": "Link to the Paper"
   },
   {
-    "objectID": "research/papers/2021-corona_other.html#abstract",
-    "href": "research/papers/2021-corona_other.html#abstract",
+    "objectID": "research/other/2021-corona.html#abstract",
+    "href": "research/other/2021-corona.html#abstract",
     "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
     "section": "Abstract",
     "text": "Abstract\nIn this study, we investigate the impact of coronavirus pandemic on increased home office working, provision of payments to dependent employees on leave, and closed workplaces (voluntary or involuntary) of self-employed people using the online GESIS Panel survey on the Coronavirus SARS-COV-2 for Germany. To this end, we use the Bayesian estimation to measure the effects of a pandemic on key outcome variables, taking into account different levels of education, gender, household size, age, and the number of children below certain age of workers. Empirical results show that higher education level, gender, a larger household size, having children below the age of 12 significantly increase home office work. Men are more likely to work from home than women. On the other hand, women are more likely to get paid while on leave, and this could reduce the inequality documented by the existing research. A more striking result is that more educated workers, on average, are less likely to get paid while on leave. As for closed businesses, household size positively affects the number of voluntarily closed ones, and women are 20% more likely to experience having their business shut down by the authorities. A final remark is that more educated people are less likely to have their workplace closed by the authorities."
   },
   {
-    "objectID": "research/papers/2021-corona_other.html#citation",
-    "href": "research/papers/2021-corona_other.html#citation",
-    "title": "Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey",
-    "section": "Citation",
-    "text": "Citation\n\n@article{ciftci2021uneven,\n    title={Uneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey},\n    author={Ciftci, Muhsin},\n    year={2021},\n    journal = {Munich Personal RePEc Archive},\n    url = {https://mpra.ub.uni-muenchen.de/107842/},\n    abstract = {ABSTRACT In this study, we investigate the impact of coronavirus pandemic on increased home office working, provision of payments to dependent employees on leave, and closed workplaces (voluntary or involuntary) of self-employed people using the online GESIS Panel survey on the Coronavirus SARS-COV-2 for Germany. To this end, we use the Bayesian estimation to measure the effects of a pandemic on key outcome variables, taking into account different levels of education, gender, household size, age, and the number of children below certain age of workers. Empirical results show that higher education level, gender, a larger household size, having children below the age of 12 significantly increase home office work. Men are more likely to work from home than women. On the other hand, women are more likely to get paid while on leave, and this could reduce the inequality documented by the existing research. A more striking result is that more educated workers, on average, are less likely to get paid while on leave. As for closed businesses, household size positively affects the number of voluntarily closed ones, and women are 20% more likely to experience having their business shut down by the authorities. A final remark is that more educated people are less likely to have their workplace closed by the authorities.},\n    year = {2021}\n}"
+    "objectID": "research/articles/2017-erpt.html",
+    "href": "research/articles/2017-erpt.html",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "",
+    "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
+  },
+  {
+    "objectID": "research/articles/2017-erpt.html#important-links",
+    "href": "research/articles/2017-erpt.html#important-links",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "",
+    "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
+  },
+  {
+    "objectID": "research/articles/2017-erpt.html#abstract",
+    "href": "research/articles/2017-erpt.html#abstract",
+    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "section": "Abstract",
+    "text": "Abstract\nAs a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes characterized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in “high depreciation” regime."
   },
   {
     "objectID": "research/research.html",
@@ -91,50 +84,50 @@
     "text": "For full details, including podcasts, citation information and abstracts, click on the title of each paper.\n\nRecent Work\n\n\n\n\n\n\n\n\n\n\nClimate News and Asset Prices: Evidence from Latin America\n\n\nIMF Working Paper\n\n\n\n\n\n\n\n\nFebruary 2025\n\n\nMuhsin Ciftci, Christina Kolerus\n\n\n\n\n\n\n\n\n\n\n\n\nUnderlying inflation measures for Germany\n\n\nBundesbank Technical Paper\n\n\n\n\n\n\n\n\nJanuary 2025\n\n\nMuhsin Ciftci, Elisabeth Wieland\n\n\n\n\n\n\nNo matching items\n\n\n\n\nJournal Articles\n\n\n\n\n\n\n\n\n\n\nMarket structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data\n\n\nBulletin of Economic Research\n\n\n\n\n\n\n\n\nFebruary 2022\n\n\nMuhsin Ciftci, Suleyman Hilmi Kal\n\n\n\n\n\n\n\n\n\n\n\n\nNonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy\n\n\nAsian Journal of Economic Modeling\n\n\n\n\n\n\n\n\nJanuary 2018\n\n\nMuhsin Ciftci, Muhammed Hasan Yilmaz\n\n\n\n\n\n\nNo matching items\n\n\n\n\nOther\n\n\n\n\n\n\n\n\n\n\nUneven Consequences of Coronavirus Pandemic: Evidence from a Real Time Survey\n\n\nMunich RePEC Archive\n\n\n\n\n\n\n\n\nMay 2021\n\n\nMuhsin Ciftci\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "research/papers/2017-erpt_article.html",
-    "href": "research/papers/2017-erpt_article.html",
-    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "objectID": "research/articles/2022-erpt-market-structure.html",
+    "href": "research/articles/2022-erpt-market-structure.html",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
     "section": "",
     "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
   },
   {
-    "objectID": "research/papers/2017-erpt_article.html#important-links",
-    "href": "research/papers/2017-erpt_article.html#important-links",
-    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "objectID": "research/articles/2022-erpt-market-structure.html#important-links",
+    "href": "research/articles/2022-erpt-market-structure.html#important-links",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
     "section": "",
     "text": "AI Generated Podcast:\n\n\n\n\nLink to the Paper"
   },
   {
-    "objectID": "research/papers/2017-erpt_article.html#abstract",
-    "href": "research/papers/2017-erpt_article.html#abstract",
-    "title": "Nonlinear Dynamics in Exchange Rate Pass-Through and Inflation Persistence: The Case of Turkish Economy",
+    "objectID": "research/articles/2022-erpt-market-structure.html#abstract",
+    "href": "research/articles/2022-erpt-market-structure.html#abstract",
+    "title": "Market structure and exchange rate pass-through in the Turkish manufacturing industry: Evidence from sectoral data",
     "section": "Abstract",
-    "text": "Abstract\nAs a small open economy, inflation is still largely driven by exchange rate developments in Turkey. Despite the fact that exchange rate pass-through (ERPT) to inflation has declined after the adoption of explicit inflation targeting in 2003, its contribution to the consumer prices and producer prices inflation is still prominent. Furthermore, recent studies show that inflation persistence appears to be another issue preventing from achieving price stability. This paper aims to explore the non-linear dynamics of ERPT and inflation persistence in the case of Turkey by employing Smooth Transition Regression (STR) models. The main motivation of this study is to identify different regimes characterized by the magnitude of exchange rate movements in which ERPT and persistence in inflation indicators differ. Estimation results for the period 2003-2017 shows that inflation persistence and ERPT for Consumer Price Index (CPI) is high in regime with a sizeable import price shock. Additionally, STR estimation results indicate that ERPT and import price pass-through to Producer Price Index (PPI) is more influential in “high depreciation” regime."
+    "text": "Abstract\nIn this paper, we study the impact of market share on exchange rate pass-through to Turkish manufacturing sector prices using four-digit industry level disaggregate data. Our findings provide evidence that exchange rate pass-through in the manufacturing sector has an asymmetric U-shape with respect to market share, implying that highly competitive and concentrated industries pass-through exchange rate movements in both directions (appreciation and depreciation) to local producer prices more than moderately concentrated sectors. However, when directional asymmetries of exchange rate movements are added to the models, results become more revealing, that is, highly monopolized industries pass-through exchange rate depreciation at higher rates than highly competitive industries. We also find that the size of the exchange rate movement has an impact on the asymmetry and the curvature of the U-shaped Exchange Rate Pass-Through (ERPT) curve with respect to the market share."
   },
   {
-    "objectID": "research/papers/2025-bundesbank-underlying_recent.html",
-    "href": "research/papers/2025-bundesbank-underlying_recent.html",
+    "objectID": "research/recent/2025-bundesbank-underlying.html",
+    "href": "research/recent/2025-bundesbank-underlying.html",
     "title": "Underlying inflation measures for Germany",
     "section": "",
     "text": "AI Generated Podcast:\nLink to the Paper"
   },
   {
-    "objectID": "research/papers/2025-bundesbank-underlying_recent.html#important-links",
-    "href": "research/papers/2025-bundesbank-underlying_recent.html#important-links",
+    "objectID": "research/recent/2025-bundesbank-underlying.html#important-links",
+    "href": "research/recent/2025-bundesbank-underlying.html#important-links",
     "title": "Underlying inflation measures for Germany",
     "section": "",
     "text": "AI Generated Podcast:\nLink to the Paper"
   },
   {
-    "objectID": "research/papers/2025-bundesbank-underlying_recent.html#abstract",
-    "href": "research/papers/2025-bundesbank-underlying_recent.html#abstract",
+    "objectID": "research/recent/2025-bundesbank-underlying.html#abstract",
+    "href": "research/recent/2025-bundesbank-underlying.html#abstract",
     "title": "Underlying inflation measures for Germany",
     "section": "Abstract",
     "text": "Abstract"
   },
   {
-    "objectID": "research/papers/2025-bundesbank-underlying_recent.html#citation",
-    "href": "research/papers/2025-bundesbank-underlying_recent.html#citation",
+    "objectID": "research/recent/2025-bundesbank-underlying.html#citation",
+    "href": "research/recent/2025-bundesbank-underlying.html#citation",
     "title": "Underlying inflation measures for Germany",
     "section": "Citation",
     "text": "Citation"
@@ -208,5 +201,12 @@
     "title": "",
     "section": "Grants/Awards",
     "text": "Grants/Awards\n\n2019 - 23 PhD Scholarship/Fellowship by DAAD, German Academic Exchange Service (Deutscher Akademischer Austauschdienst)"
+  },
+  {
+    "objectID": "research/recent/2025-imf-climate-news.html#key-figures",
+    "href": "research/recent/2025-imf-climate-news.html#key-figures",
+    "title": "Climate News and Asset Prices: Evidence from Latin America",
+    "section": "Key figures",
+    "text": "Key figures\n\nClimate change exposure measures\n\n\n\nTime varying climate risk premium\n\n\n\nCountry level average risk premiums\n\n\n\nDifferential responses between brown and green firms to regulatory news"
   }
 ]

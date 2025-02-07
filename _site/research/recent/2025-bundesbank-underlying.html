@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Muhsin Ciftci">
-<meta name="author" content="Christina Kolerus">
+<meta name="author" content="Elisabeth Wieland">
 
-<title>Climate News and Asset Prices: Evidence from Latin America</title>
+<title>Underlying inflation measures for Germany</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -21,6 +21,40 @@ ul.task-list li input[type="checkbox"] {
   width: 0.8em;
   margin: 0 0.8em 0.2em -1em; /* quarto-specific, see https://github.com/quarto-dev/quarto-cli/issues/4556 */ 
   vertical-align: middle;
+}
+/* CSS for syntax highlighting */
+pre > code.sourceCode { white-space: pre; position: relative; }
+pre > code.sourceCode > span { line-height: 1.25; }
+pre > code.sourceCode > span:empty { height: 1.2em; }
+.sourceCode { overflow: visible; }
+code.sourceCode > span { color: inherit; text-decoration: inherit; }
+div.sourceCode { margin: 1em 0; }
+pre.sourceCode { margin: 0; }
+@media screen {
+div.sourceCode { overflow: auto; }
+}
+@media print {
+pre > code.sourceCode { white-space: pre-wrap; }
+pre > code.sourceCode > span { display: inline-block; text-indent: -5em; padding-left: 5em; }
+}
+pre.numberSource code
+  { counter-reset: source-line 0; }
+pre.numberSource code > span
+  { position: relative; left: -4em; counter-increment: source-line; }
+pre.numberSource code > span > a:first-child::before
+  { content: counter(source-line);
+    position: relative; left: -1em; text-align: right; vertical-align: baseline;
+    border: none; display: inline-block;
+    -webkit-touch-callout: none; -webkit-user-select: none;
+    -khtml-user-select: none; -moz-user-select: none;
+    -ms-user-select: none; user-select: none;
+    padding: 0 4px; width: 4em;
+  }
+pre.numberSource { margin-left: 3em;  padding-left: 4px; }
+div.sourceCode
+  {   }
+@media screen {
+pre > code.sourceCode > span > a:first-child::before { text-decoration: underline; }
 }
 </style>
 
@@ -41,7 +75,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../../site_libs/quarto-html/quarto-syntax-highlighting-e26003cea8cd680ca0c55a263523d882.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../../site_libs/bootstrap/bootstrap-ee9b6154bad8f7a02ac7d873bdd6043d.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../../site_libs/bootstrap/bootstrap-81168fe10386ada799169813d4ab3351.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "navbar",
   "copy-button": false,
@@ -71,17 +105,17 @@ ul.task-list li input[type="checkbox"] {
 }</script>
 
 
-<meta property="og:title" content="Climate News and Asset Prices: Evidence from Latin America">
-<meta property="og:description" content="IMF Working Paper">
+<meta property="og:title" content="Underlying inflation measures for Germany">
+<meta property="og:description" content="Bundesbank Technical Paper">
 <meta property="og:image" content="/media/profile.png">
-<meta name="twitter:title" content="Climate News and Asset Prices: Evidence from Latin America">
-<meta name="twitter:description" content="IMF Working Paper">
+<meta name="twitter:title" content="Underlying inflation measures for Germany">
+<meta name="twitter:description" content="Bundesbank Technical Paper">
 <meta name="twitter:image" content="/media/profile.png">
 <meta name="twitter:creator" content="@ciftciphd">
 <meta name="twitter:card" content="summary_large_image">
 </head>
 
-<body class="nav-fixed">
+<body class="nav-fixed fullcontent">
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
@@ -113,26 +147,26 @@ ul.task-list li input[type="checkbox"] {
     </nav>
 </header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-full page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
 <!-- main -->
-<main class="content column-page" id="quarto-document-content">
+<main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Climate News and Asset Prices: Evidence from Latin America</h1>
-<p class="subtitle lead">IMF Working Paper</p>
+<h1 class="title">Underlying inflation measures for Germany</h1>
+<p class="subtitle lead">Bundesbank Technical Paper</p>
   <div class="quarto-categories">
-    <div class="quarto-category">Climate Change</div>
-    <div class="quarto-category">Asset Pricing</div>
-    <div class="quarto-category">Textual Analysis</div>
+    <div class="quarto-category">Underlying inflation</div>
+    <div class="quarto-category">Machine learning</div>
+    <div class="quarto-category">Monetary Policy</div>
   </div>
   </div>
 
 
-<div class="quarto-title-meta-author column-page">
+<div class="quarto-title-meta-author">
   <div class="quarto-title-meta-heading">Authors</div>
   <div class="quarto-title-meta-heading">Affiliations</div>
   
@@ -145,22 +179,22 @@ ul.task-list li input[type="checkbox"] {
           </p>
       </div>
     <div class="quarto-title-meta-contents">
-    <p class="author">Christina Kolerus </p>
+    <p class="author">Elisabeth Wieland </p>
   </div>
   <div class="quarto-title-meta-contents">
         <p class="affiliation">
-            International Monetary Fund (IMF)
+            Deutsche Bundesbank
           </p>
       </div>
   </div>
 
-<div class="quarto-title-meta column-page">
+<div class="quarto-title-meta">
 
       
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 2025</p>
+      <p class="date">January 2025</p>
     </div>
   </div>
   
@@ -181,6 +215,10 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="abstract" class="level2">
 <h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
+</section>
+<section id="citation" class="level2">
+<h2 class="anchored" data-anchor-id="citation">Citation</h2>
+<div class="sourceCode" id="cb1"><pre class="sourceCode bibtex code-with-copy"><code class="sourceCode bibtex"></code><button title="Copy to Clipboard" class="code-copy-button"><i class="bi"></i></button></pre></div>
 
 
 </section>
