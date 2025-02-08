@@ -1,5 +1,5 @@
 ---
-title: "Climate News and Asset Prices: Evidence from Latin America"
+title: "Climate News and Asset Valuations: Insights from Latin America"
 date: 2025-02-07
 subtitle: IMF Working Paper
 author:

@@ -33,18 +33,12 @@ citations-hover: false
 - Analysis of Textual Data
 
 ### Research
-- Climate News and Asset Prices: Evidence from Latin America (with Christina Kolerus, IMF)
-- Underlying inflation measures for Germany (with Elisabeth Wieland, Deutsche Bundesbank)
-- The impact of climate change mitigation policies: Europe and beyond
-- [@ciftci_kal_2022]
-- [@ciftci_yilmaz_2017]
-- [@ciftci2021uneven]
-
+- [Go to Research Tab for more details](https://mciftci.netlify.app/research/research)
 
 ## Presentations
-- Climate News and Asset Prices: Evidence from Latin America, International Monetary Fund (IMF), Washington DC/United States
+- Climate News and Asset Valuations: Insights from Latin America. International Monetary Fund (IMF), Washington DC/United States
 - The impact of climate change mitigation policies : Europe and beyond, University of Mainz, Mainz/Germany
-- Climate-related news and financial asset pricing in Latin American countries, International Monetary Fund (IMF), Washington DC/United States
+- Climate News and Asset Valuations: Insights from Latin America. International Monetary Fund (IMF), Washington DC/United States
 - The macroeconomic impact of climate change mitigation policies, Joint Conference of Goethe University Frankfurt, University of Bonn, University of Mannheim and Frankfurt School of Finance, Frankfurt am Main/Germany
 - The impact of climate change mitigation policies : Europe and beyond, Deutsche Bundesbank, Frankfurt am Main/Germany
 
